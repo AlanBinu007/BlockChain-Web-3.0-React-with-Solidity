@@ -16,6 +16,24 @@
   border-radius: 5px 5px 0px 0px;
 }
 
+.button1 {
+  background-color: rgb(85, 77, 61);
+  text-decoration: none;
+  color: rgb(31, 29, 25);
+  padding: 15px 15px;
+  margin-top: 25px;
+  border-radius: 4px;
+  border-width: 0px;
+  margin-bottom: 20px;
+  width: 230px;
+  height: 50px;
+  font-weight: bold;
+  font-family: "Google Sans Regular";
+  font-size: 17px;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer; 
+  align-items: center; 
+}
 .logo_img {
   margin: 3px;
   width: auto;

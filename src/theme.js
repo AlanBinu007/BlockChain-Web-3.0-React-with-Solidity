@@ -119,4 +119,34 @@ export const orangeTheme = {
   headerColor: "#FF6B3577",
 };
 
-export const chosenTheme = blueTheme;
+const lightTheme = {
+  name: "light",
+  body: "#FFFFFF",
+  text: "#343434",
+  //dark: "#000000",
+  secondaryText: "#7F8DAA",
+  imageHighlight: "#0E6BA8",
+  compImgHighlight: "#E6E6E6",
+  jacketColor: "#0A2472",
+  headerColor: "#0E6BA877",
+};
+
+const darkTheme = {
+  name: "dark",
+  body: "#1D1D1D",
+  text: "#FFFFFF",
+  dark: "#000000",
+  secondaryText: "#8D8D8D",
+  imageHighlight: "#0E6BA8",
+  compImgHighlight: "#E6E6E6",
+  jacketColor: "#0A2472",
+  headerColor: "#0E6BA877",
+  projectCard: "#292A2D",
+  avatarShoes: "#37168E",
+  skinColor: "#F7B799",
+  skinColor2: "#37168E",
+  imageDark: "#292A2D",
+  imageClothes: "#37168E",
+};
+
+export const themes = { light: lightTheme, dark: darkTheme };

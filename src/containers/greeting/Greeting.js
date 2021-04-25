@@ -5,6 +5,7 @@ import { greeting } from "../../portfolio";
 import { Fade } from "react-reveal";
 import { useHistory } from "react-router-dom";
 import FeelingProud from "./FeelingProud";
+import Button from "../../components/button/Button";
 import { style } from "glamor";
 
 export default function Greeting(props) {
@@ -28,13 +29,14 @@ export default function Greeting(props) {
               <p
                 className="greeting-text-p subTitle"
                 style={{ color: theme.secondaryText }}
-              >
+              ><br />
                 <span>I'm </span>
                 <span style={{ color: theme.accentColor }}>
                   {greeting.full_name}.{" "}
-                </span>
-                {greeting.subTitle}
+                </span><br />
+                I am a Full Stack Engineer 
               </p>
+              
               <SocialMedia />
               <div className="portfolio-repo-btn-div">
                 <button
@@ -46,7 +48,25 @@ export default function Greeting(props) {
                 >
                   Contact Me
                 </button>
-              </div>
+                  <a href="https://drive.google.com/uc?export=download&id=1E8zVAoWa73sy7ZXSUKLYWqX31pmUj-PH" download>
+                  <button
+                  className="button1"
+                >
+                  My Resume
+                </button>  
+                  </a>
+                
+
+            </div>
+                       
+              <div className="resume-btn-div">
+                  {/* <Button
+                    text="See My Resume"
+                    newTab={true}
+                    href={greeting.resumeLink}
+                    theme={theme}
+                  />    */}
+               </div>
             </div>
           </div>
           <div className="greeting-image-div">

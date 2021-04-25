@@ -1,0 +1,146 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "montserrat",sans-serif;
+}
+
+.contact-section h1{
+  text-align: center;
+  color: #ddd;
+}
+.border{
+  width: 100px;
+  height: 10px;
+  background: #34495e;
+  margin: 40px auto;
+}
+
+.contact-form{
+  max-width: 600px;
+  margin: auto;
+  padding: 0 10px;
+  overflow: hidden;
+}
+
+.contact-form-text{
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 16px 0;
+  border: 0;
+  background: #111;
+  padding: 20px 40px;
+  outline: none;
+  color: #ddd;
+  transition: 0.5s;
+}
+.contact-form-text:focus{
+  box-shadow: 0 0 10px 4px #34495e;
+}
+textarea.contact-form-text{
+  resize: none;
+  height: 120px;
+}
+.contact-form-btn{
+  float: right;
+  border: 0;
+  background: #34495e;
+  color: #fff;
+  padding: 12px 50px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.contact-form-btn:hover{
+  background: #2980b9;
+}
+
+.success{
+  position: absolute;
+  top: 5px;
+  right: 10px;
+ background-color: rgb(43, 187, 38);
+ padding: 20px 40px;
+ border-radius: 5px;
+ border-left: 6px solid green;
+ overflow: hidden;
+ }
+
+ /* .success.alert{
+   opacity: 1;
+   pointer-events: auto;
+ } */
+
+ .check{
+   position: absolute;
+   top: 50%;
+   left: 5%;
+   transform:  translateY(-50%);
+   font-size: 150%;
+   color: rgb(43, 121, 43)
+ }
+
+.mesg{
+  font-size: 18px;
+  color: rgb(43, 121, 43);
+  margin: 0 20px;
+
+}
+
+
+.crose{
+ padding: 5px 10px;
+ margin-top: 6px;
+background-color: (43, 187, 38);
+font-size: 30px;
+color: rgb(43, 121, 43);
+position: absolute;
+top: 40%;
+right: 0;
+transform:  translateY(-50%);
+cursor: pointer;
+
+}
+
+.crose.hover{
+  background-color: rgb(43, 187, 38);
+}
+
+.success.show{
+  animation: show_slide 1s ease forwards;
+}
+
+@keyframes show_slide {
+  0%{
+    transform: translateX(100%);
+  }
+  40%{
+    transform: translateX(-10%);
+  }
+  80%{
+    transform: translateX(0%);
+  }
+  100%{
+    transform: translateX(-10%);
+  }
+}
+
+.success.hide{
+  animation: hide_slide 1s ease forwards;
+}
+
+@keyframes hide_slide {
+  0%{
+    transform: translateX(-10%);
+  }
+  40%{
+    transform: translateX(0%);
+  }
+  80%{
+    transform: translateX(-10%);
+  }
+  100%{
+    transform: translateX(100%);
+  }
+}
+

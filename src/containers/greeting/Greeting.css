@@ -54,8 +54,9 @@
 }
 
 .button {
+  background-color: rgb(190, 151, 42);
   text-decoration: none;
-  color: rgba(255, 255, 255, 1);
+  color: rgb(31, 29, 25);
   padding: 15px 15px;
   margin-top: 25px;
   border-radius: 4px;
@@ -68,6 +69,25 @@
   font-size: 17px;
   transition: all 0.2s ease-in-out;
   cursor: pointer;
+}
+
+.button1 {
+  background-color: rgb(224, 69, 69);
+  text-decoration: none;
+  color: rgb(31, 29, 25);
+  padding: 15px 15px;
+  margin-top: 25px;
+  border-radius: 4px;
+  border-width: 0px;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 50px;
+  font-weight: bold;
+  font-family: "Google Sans Regular";
+  font-size: 17px;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer; 
+  margin-left: 25px; 
 }
 
 /* Media Query */
