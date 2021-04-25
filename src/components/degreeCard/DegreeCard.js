@@ -18,7 +18,7 @@ class DegreeCard extends Component {
                 style={{
                   maxWidth: "100%",
                   maxHeight: "100%",
-                  transform: "scale(50%, 50%)",
+                  transform: "scale(100%, 100%)",
                 }}
                 src={mca}
                 //src={require(`../../assests/images/${degree.logo_path1}`)}
@@ -149,7 +149,7 @@ class DegreeCard extends Component {
                 style={{
                   maxWidth: "100%",
                   maxHeight: "100%",
-                  transform: "scale(50%, 50%)",
+                  transform: "scale(100%, 100%)",
                 }}
                 src={bca}
                 alt={degree.alt_name}

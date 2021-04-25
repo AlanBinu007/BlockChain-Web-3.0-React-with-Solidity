@@ -24,6 +24,7 @@ class ExperienceAccordion extends Component {
                 <div class="timeline-header">
                   <h3><i>Full Stack Engineer</i></h3>
                   <i>December 2020 - Present</i>
+                  <br/><i>Full Time</i>
                 </div>
 
                 <div class="timeline-content">
@@ -49,6 +50,7 @@ class ExperienceAccordion extends Component {
                 <div class="timeline-header">
                   <h3><i>Automation Tester (QA)</i></h3>
                   <i>August 2020 - December 2020</i>
+                  <br/><i>Trainee</i>
                 </div>
 
                 <div class="timeline-content">
@@ -61,6 +63,24 @@ class ExperienceAccordion extends Component {
                   <br />
                 </div>
               </div>
+              <div class="timeline-block">
+                <div class="timeline-ico">
+                  <i class="fa fa-briefcase" aria-hidden="true"></i>
+                </div>
+
+                <div class="timeline-header">
+                  <h3><i>Java Software Developer</i></h3>
+                  <i>October 2019 - January 2020</i>
+                  <br/><i>Intership</i>
+                </div>
+
+                <div class="timeline-content">
+                  <h4><i>SanthiSoft Technology</i></h4>
+                  <p>
+                    Worked as a Java Software Developer in SanthiSoft as a Intern<br /> 
+                  </p>
+                </div>
+              </div>
 
               <div class="timeline-block">
                 <div class="timeline-ico">
@@ -69,13 +89,14 @@ class ExperienceAccordion extends Component {
 
                 <div class="timeline-header">
                   <h3><i>Front-end Developer</i></h3>
-                  <i>August 2018 - July 2020</i>
+                  <i>August 2018 - October  2019</i><br /><i>Part Time</i>
                 </div>
 
                 <div class="timeline-content">
                   <h4><i>FreeLancer</i></h4>
+                  
                   <p>
-                    Works as a freeLancer with the help of my father. Mainly
+                    Works as a freeLancer specialized in Java and Web Development. Mainly
                     deals with creating, hosting and
                     <br /> maintaining the websites with online database access.
                   </p>
