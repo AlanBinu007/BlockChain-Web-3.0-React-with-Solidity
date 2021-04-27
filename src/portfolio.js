@@ -547,6 +547,7 @@ const projects = {
       id: "0",
       name: "Netflix Clone",
       url: "https://github.com/AlanBinu007/netflix_clone",
+      live: "https://alanbinu-netflix.web.app/",
       description: "A clean and full customizable clean Netflix Clone using React and tmdb API.",
       languages: [
         {
@@ -559,18 +560,69 @@ const projects = {
         },
         {
           name: "CSS",
-          iconifyClass: "logos-css",
+          iconifyClass: "logos-css-3",
         },
         {
-          name: "Html",
-          iconifyClass: "logos-html",
+          name: "HTML",
+          iconifyClass: "logos-html-5",
         },
       ],
     },
     {
-      id: "1",
+      id: "0",
+      name: "LinkedIn Clone",
+      url: "https://github.com/AlanBinu007/Linkedin-Clone-React",
+      live: "https://alanbinu-linkedin.web.app/",
+      description: "A clean and clean LinkedIn Clone using React with Login and Add post Feature.",
+      languages: [
+        {
+          name: "ReactJS",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+        {
+          name: "CSS",
+          iconifyClass: "logos-css-3",
+        },
+        {
+          name: "HTML",
+          iconifyClass: "logos-html-5",
+        },
+      ],
+    },
+    {
+      id: "0",
+      name: "YouTube",
+      url: "https://github.com/AlanBinu007/youtube",
+      live: "https://alanbinu-642df.web.app/",
+      description: "YouTube Clone created using React and react-youtube API.",
+      languages: [
+        {
+          name: "ReactJS",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+        {
+          name: "CSS",
+          iconifyClass: "logos-css-3",
+        },
+        {
+          name: "HTML",
+          iconifyClass: "logos-html-5",
+        },
+      ],
+    },
+    {
+      id: "7",
       name: "Amazon Clone",
       url: "https://github.com/AlanBinu007/amazone_clone_react",
+      live : "https://alanbinu-ecommerce.web.app/",
       description:
         "Here i created an full functional Amazon clone application using React",
       languages: [
@@ -581,6 +633,113 @@ const projects = {
         {
           name: "JavaScript",
           iconifyClass: "logos-javascript",
+        },
+        {
+          name: "HTML",
+          iconifyClass: "logos-html-5",
+        },
+      ],
+    },
+    {
+      id: "7",
+      name: "Covid-19 tracker Using SPringBoot",
+      url: "https://github.com/AlanBinu007/Covid-19-Spring",
+      live : "",
+      description:
+        "Simple Covid-19tracking software using spring boot",
+      languages: [
+        {
+          name: "SpringBoot",
+          iconifyClass: "logos-spring",
+        },
+        {
+          name: "Java",
+          iconifyClass: "logos-java",
+        },
+      ],
+    },
+    {
+      id: "7",
+      name: "Spring Empooyee CURD Application",
+      url: "https://github.com/AlanBinu007/Spring-Employee-CURD",
+      live : "",
+      description:
+        "Here we used spring boot as back-end and thymeleaf as  web site template. The app contain creation, Deletion, Ediiting and fetching the employee details",
+      languages: [
+        {
+          name: "SpringBoot",
+          iconifyClass: "logos-spring",
+        },
+        {
+          name: "Java",
+          iconifyClass: "logos-java",
+        },
+        {
+          name: "HTML",
+          iconifyClass: "logos-html-5",
+        },
+      ],
+    },
+    {
+      id: "7",
+      name: "SpringBoot Registration Login",
+      url: "https://github.com/AlanBinu007/SpringBootRegistrationLogin",
+      live : "",
+      description:
+        "Created a simple login application using Springboot and we store the user details in Mysql database",
+      languages: [
+        {
+          name: "MySql",
+          iconifyClass: "logos-mysql",
+        },
+        {
+          name: "SpringBoot",
+          iconifyClass: "logos-spring",
+        },
+        {
+          name: "Java",
+          iconifyClass: "logos-java",
+        },
+        
+      ],
+    },
+    {
+      id: "7",
+      name: "Spring Security with JWT",
+      url: "https://github.com/AlanBinu007/Spring-Security-JWT",
+      live : "",
+      description:
+        "Here we are implemented the spring security to a simple application with (JSON Web Token) JWT",
+      languages: [
+        {
+          name: "HTML",
+          iconifyClass: "logos-html-5",
+        },
+        {
+          name: "SpringBoot",
+          iconifyClass: "logos-spring",
+        },
+        {
+          name: "Java",
+          iconifyClass: "logos-java",
+        },
+      ],
+    },
+    {
+      id: "7",
+      name: "Covid-19 tracker Using SPringBoot",
+      url: "https://github.com/AlanBinu007/Covid-19-Spring",
+      live : "",
+      description:
+        "Simple Covid-19tracking software using spring boot",
+      languages: [
+        {
+          name: "SpringBoot",
+          iconifyClass: "logos-spring",
+        },
+        {
+          name: "Java",
+          iconifyClass: "logos-java",
         },
       ],
     },
@@ -649,6 +808,7 @@ const projects = {
       id: "3",
       name: "E-Commerce Applicatoin",
       url: "https://github.com/AlanBinu007/e_commerce_app",
+      Live : "https://alanbinu-commerce.web.app/",
       description:
         "An E-Commerce Application created using ReactJs and famous commercejs as REST API methods",
       languages: [
@@ -674,9 +834,6 @@ const projects = {
           iconifyClass: "logos-react",
         },
         {
-          name: "Express",
-          iconifyClass: "logos-express",
-        },{
 name: "MongoDB",
         iconifyClass: "logos-mongodb",
         },

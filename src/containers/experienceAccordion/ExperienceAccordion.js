@@ -11,10 +11,12 @@ class ExperienceAccordion extends Component {
         {" "}
         <Fade bottom duration={2000} distance="40px">
           <>
+          <div class="container">
             <center>
               <h2>Work Experience</h2>
             </center>
             <br />
+            <div class="col-twelve"></div>
             <div class="timeline-wrap">
               <div class="timeline-block">
                 <div class="timeline-ico">
@@ -77,7 +79,7 @@ class ExperienceAccordion extends Component {
                 <div class="timeline-content">
                   <h4><i>SanthiSoft Technology</i></h4>
                   <p>
-                    Worked as a Java Software Developer in SanthiSoft as a Intern<br /> 
+                    Worked as a Java Software Developer in SanthiSoft as an Intern as a part of my final <br />year project and documentation<br /> 
                   </p>
                 </div>
               </div>
@@ -97,14 +99,15 @@ class ExperienceAccordion extends Component {
                   
                   <p>
                     Works as a freeLancer specialized in Java and Web Development. Mainly
-                    deals with creating, hosting and
+                    deals <br />with creating, hosting and
                     <br /> maintaining the websites with online database access.
                   </p>
                 </div>
               </div>
-            </div>
+            </div></div>
           </>
         </Fade>
+        
       </>
     );
   }
