@@ -30,7 +30,7 @@ class ExperienceAccordion extends Component {
                 </div>
 
                 <div class="timeline-content">
-                  <h4><i>Infosys ltd</i></h4>
+                  <h4><i>Infosys ltd  </i></h4>
                   Deleaing with Engineering team as a Front-end and as a
                   Back-end developer uisng <br />
                   ReactJs, AngulatJs and SpringBoot
@@ -90,7 +90,7 @@ class ExperienceAccordion extends Component {
                 </div>
 
                 <div class="timeline-header">
-                  <h3><i>Front-end Developer</i></h3>
+                  <h3><i>Spftware and Web Developer</i></h3>
                   <i>August 2018 - October  2019</i><br /><i>Part Time</i>
                 </div>
 

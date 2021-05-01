@@ -45,7 +45,7 @@ class Education extends Component {
             </div>
           </Fade>
           <center><h3 className="heading-sub-text" style={{ color: theme.text }}>
-                  Some OF My Verified Digital Archivements (Badges)<br /><br />
+                  Some OF My Latest Verified Digital Archivements (Badges)<br /><br />
                 </h3></center>
           <center>
             <li className="organizations-inline">
