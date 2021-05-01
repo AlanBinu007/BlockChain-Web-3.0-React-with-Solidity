@@ -548,6 +548,7 @@ const projects = {
       name: "Netflix Clone",
       url: "https://github.com/AlanBinu007/netflix_clone",
       live: "https://alanbinu-netflix.web.app/",
+      tech:"Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript",
       description: "A clean and full customizable clean Netflix Clone using React and tmdb API.",
       languages: [
         {
@@ -573,6 +574,7 @@ const projects = {
       name: "LinkedIn Clone",
       url: "https://github.com/AlanBinu007/Linkedin-Clone-React",
       live: "https://alanbinu-linkedin.web.app/",
+      tech:"Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript",
       description: "A clean and clean LinkedIn Clone using React with Login and Add post Feature.",
       languages: [
         {
@@ -598,6 +600,7 @@ const projects = {
       name: "YouTube",
       url: "https://github.com/AlanBinu007/youtube",
       live: "https://alanbinu-642df.web.app/",
+      tech:"Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript",
       description: "YouTube Clone created using React and react-youtube API.",
       languages: [
         {
@@ -623,6 +626,7 @@ const projects = {
       name: "Amazon Clone",
       url: "https://github.com/AlanBinu007/amazone_clone_react",
       live : "https://alanbinu-ecommerce.web.app/",
+      tech:"Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript",
       description:
         "Here i created an full functional Amazon clone application using React",
       languages: [
@@ -645,6 +649,7 @@ const projects = {
       name: "Covid-19 tracker Using SPringBoot",
       url: "https://github.com/AlanBinu007/Covid-19-Spring",
       live : "",
+      tech:"Technologies Used : SpringBoot, HTML, CSS, BootStrap, Javacript",
       description:
         "Simple Covid-19tracking software using spring boot",
       languages: [
@@ -663,6 +668,7 @@ const projects = {
       name: "Spring Empooyee CURD Application",
       url: "https://github.com/AlanBinu007/Spring-Employee-CURD",
       live : "",
+      tech:"Technologies Used : SpringBoot, HTML, CSS, BootStrap, Material UI",
       description:
         "Here we used spring boot as back-end and thymeleaf as  web site template. The app contain creation, Deletion, Ediiting and fetching the employee details",
       languages: [
@@ -685,6 +691,7 @@ const projects = {
       name: "SpringBoot Registration Login",
       url: "https://github.com/AlanBinu007/SpringBootRegistrationLogin",
       live : "",
+      tech:"Technologies Used : SpringBoot, HTML, CSS, BootStrap, MySql",
       description:
         "Created a simple login application using Springboot and we store the user details in Mysql database",
       languages: [
@@ -708,6 +715,7 @@ const projects = {
       name: "Spring Security with JWT",
       url: "https://github.com/AlanBinu007/Spring-Security-JWT",
       live : "",
+      tech:"Technologies Used : SpringBoot, HTML, CSS, BootStrap",
       description:
         "Here we are implemented the spring security to a simple application with (JSON Web Token) JWT",
       languages: [
@@ -730,6 +738,7 @@ const projects = {
       name: "Covid-19 tracker Using SPringBoot",
       url: "https://github.com/AlanBinu007/Covid-19-Spring",
       live : "",
+      tech:"Technologies Used : SpringBoot, HTML, CSS, BootStrap, Material UI",
       description:
         "Simple Covid-19tracking software using spring boot",
       languages: [
@@ -748,6 +757,8 @@ const projects = {
       name: "Full Functional Online Student Management System",
       url: " ",
       live:"",
+      
+      tech:"Technologies Used : Java, HTML, CSS, BootStrap, javaScript",
       description:
         "My BCA final year project that i Published in my college itself. Got so many appreciation",
       languages: [
@@ -770,6 +781,7 @@ const projects = {
       name: "Face Dectection System",
       url: "",
       live:"",
+      tech:"Technologies Used : Python, Tensorflow, Computer vision",
       description:
         "A Simple Face-Detion App using Python Computer Vison and Tensorflow.",
       languages: [
@@ -788,6 +800,7 @@ const projects = {
       id: "13",
       name: "ToDo-App",
       url: "",
+      tech:"Technologies Used : SpringBoot, ReactJs, javaScript",
       live:"",
       description:
         "A simple ToDo application using REST API with the facility to Add, Remove, Edit and  Get Methods",
@@ -802,7 +815,7 @@ const projects = {
           iconifyClass: "logos-react",
         },
         {
-          name: "Sring",
+          name: "Spring",
           iconifyClass: "logos-spring",
         },
       ],
@@ -812,6 +825,8 @@ const projects = {
       name: "E-Commerce Applicatoin",
       url: "https://github.com/AlanBinu007/e_commerce_app",
       live : "https://alanbinu-commerce.web.app/",
+    
+      tech:"Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI",
       description:
         "An E-Commerce Application created using ReactJs and famous commercejs as REST API methods",
       languages: [
@@ -819,13 +834,17 @@ const projects = {
           name: "React",
           iconifyClass: "logos-react",
         },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
       ],
     },
     {
       id: "4",
       name: "Full Stack Social Media App",
       url: " ",
-      
+      tech:"Technologies Used : ReactJs, MongoDb, ExpressJs, NodeJs",
       live:"",
       description:
         "It is a full stack MERN(MongoDb, ExpressJs, ReactJs, Node) Sociak Media Application that multilple user can be able to login at a same time and also able to create their post",

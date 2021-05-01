@@ -126,6 +126,7 @@ export default function ProjectCard({ repo, theme }) {
                   </a>
           </div>
         </Fade>
+        <br/><br/>  
       </div>
     );
   }
