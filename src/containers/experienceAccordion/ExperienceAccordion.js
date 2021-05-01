@@ -70,7 +70,7 @@ class ExperienceAccordion extends Component {
 
                   <div class="timeline-content">
                   <h3>
-                      <i>Automation Tester (QA)</i>
+                      <i>Automation Tester</i>
                       
                     </h3>
                     <i>August 2020 - December 2020</i>
@@ -173,9 +173,9 @@ class ExperienceAccordion extends Component {
                   </div>
 
                   <div class="timeline-content">
-                    <h4>
+                    <h3>
                       <i>Santhigiri Institude Of Management, Vazhithala</i>
-                    </h4>
+                    </h3>
                     Volunteered as a Software Support in a Mega Job Fair with consist of 50+ companies and <br />2500+ Candidates
                     <br />
                     <br />
@@ -197,9 +197,9 @@ class ExperienceAccordion extends Component {
                   </div>
 
                   <div class="timeline-content">
-                    <h4>
+                    <h3>
                       <i>Santhigiri College of Computer Sciences, Vazhithala</i>
-                    </h4>
+                    </h3>
                     I carry out one of the role for taking an excel project/seminar for our junior students in my<br /> college as a foundation step for their career
                     <br />
                     
@@ -219,9 +219,9 @@ class ExperienceAccordion extends Component {
                     <br />
                   </div>
                   <div class="timeline-content">
-                    <h4>
+                    <h3>
                       <i>Santhigiri College of Computer Sciences, Vazhithala</i>
-                    </h4>
+                    </h3>
                     
                     <p>
                       Conducted one day seminar to the junior students about the computer hardware, <br />hands-on experience, specification and assemblying like cpu, ram, bios etc... 
