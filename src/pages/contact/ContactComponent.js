@@ -44,7 +44,7 @@ class Contact extends Component {
                   className="contact-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}
                 >
-                  {ContactData["description"]}
+                  "If people like you they will listen to you, but if they trust you they'll do business with you."
                 </p>
                 <SocialMedia theme={theme} />
                 <div className="resume-btn-div">
@@ -79,7 +79,7 @@ class Contact extends Component {
                   className="blog-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}
                 >
-                  {blogSection["subtitle"]}
+                "Blogging is not rocket science. It’s about being yourself and putting what you have into it.”
                 </p>
                 <div className="resume-btn-div">
                 <a href="https://hashnode.com/@alanbinu" target="_blank">

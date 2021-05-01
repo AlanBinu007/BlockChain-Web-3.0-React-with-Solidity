@@ -26,7 +26,13 @@ class Experience extends Component {
                   style={{ color: theme.text }}
                 >
                   Experience
-                </h1><br />
+                </h1>
+                <p
+                  className="experience-header-detail-text subTitle"
+                  style={{ color: theme.secondaryText }}
+                >
+                  <i>"Success is the ability to go from failure to failure without losing your enthusiasm."</i>
+                </p>
                 <h3
                   className="experience-heading-sub-text"
                   style={{ color: theme.text }}

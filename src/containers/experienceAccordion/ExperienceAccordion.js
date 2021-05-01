@@ -71,7 +71,7 @@ class ExperienceAccordion extends Component {
                 </div>
 
                 <div class="timeline-header">
-                  <h3><i>Java Software Developer</i></h3>
+                  <h3><i>Software Developer</i></h3>
                   <i>October 2019 - January 2020</i>
                   <br/><i>Intership</i>
                 </div>
@@ -90,7 +90,7 @@ class ExperienceAccordion extends Component {
                 </div>
 
                 <div class="timeline-header">
-                  <h3><i>Spftware and Web Developer</i></h3>
+                  <h3><i>Web Developer</i></h3>
                   <i>August 2018 - October  2019</i><br /><i>Part Time</i>
                 </div>
 
@@ -98,7 +98,7 @@ class ExperienceAccordion extends Component {
                   <h4><i>FreeLancer</i></h4>
                   
                   <p>
-                    Works as a freeLancer specialized in Java and Web Development. Mainly
+                    Works as a freeLancer specialized in Web Development. Mainly
                     deals <br />with creating, hosting and
                     <br /> maintaining the websites with online database access.
                   </p>

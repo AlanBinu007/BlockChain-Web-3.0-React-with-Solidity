@@ -25,58 +25,110 @@ export default function ProjectCard({ repo, theme }) {
     },
   });
 
-  return (
-    <div>
-      <Fade bottom duration={2000} distance="40px">
-        <div
-          {...styles}
-          key={repo.id}
-          //onClick={() => openRepoinNewTab(repo.url)}
-          style={{ backgroundColor: theme.projectCard }}
-        >
-          <div className="repo-name-div">
-            <p className="repo-name" style={{ color: theme.text }}>
-              {repo.name}
+  if(repo.live != ""){
+    return (
+      <div>
+        <Fade bottom duration={2000} distance="40px">
+          <div
+            {...styles}
+            key={repo.id}
+            //onClick={() => openRepoinNewTab(repo.url)}
+            style={{ backgroundColor: theme.projectCard }}
+          >
+            <div className="repo-name-div">
+              <p className="repo-name" style={{ color: theme.text }}>
+                {repo.name}
+              </p>
+            </div>
+            <p className="repo-description" style={{ color: theme.text }}>
+              {repo.description}
             </p>
-          </div>
-          <p className="repo-description" style={{ color: theme.text }}>
-            {repo.description}
-          </p>
-          <div className="repo-details">
-            <ProjectLanguages logos={repo.languages} />
+            <div className="repo-details">
+              <ProjectLanguages logos={repo.languages} />
+              
+            </div>
+            <p className="repo-description" style={{ color: theme.text }}>
+              {repo.tech}
+            </p>
             
+            <a
+                    href={repo.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <div
+                      className="visit-btn"
+                      style={{ backgroundColor: theme.imageHighlight }}
+                    >
+                      <p className="btn" style={{ color: theme.dark }}>
+                        Code
+                      </p>
+                    </div>
+                  </a>
+            <a
+                    href={repo.live}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <div
+                      className="visit-btn"
+                      style={{ backgroundColor: theme.headerColor }}
+                    >
+                      <p className="btn" style={{ color: theme.text }}>
+                        Live
+                      </p>
+                    </div>
+                  </a>
+                 
           </div>
-          <a
-                  href={repo.live}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <div
-                    className="visit-btn"
-                    style={{ backgroundColor: theme.headerColor }}
+        </Fade>
+        <br/><br/>  
+      </div>
+    );
+  }
+  else {
+    return (
+      <div>
+        <Fade bottom duration={2000} distance="40px">
+          <div
+            {...styles}
+            key={repo.id}
+            //onClick={() => openRepoinNewTab(repo.url)}
+            style={{ backgroundColor: theme.projectCard }}
+          >
+            <div className="repo-name-div">
+              <p className="repo-name" style={{ color: theme.text }}>
+                {repo.name}
+              </p>
+            </div>
+            <p className="repo-description" style={{ color: theme.text }}>
+              {repo.description}
+            </p>
+            <div className="repo-details">
+              <ProjectLanguages logos={repo.languages} />
+            </div>
+            <p className="repo-description" style={{ color: theme.text }}>
+              {repo.tech}
+            </p>
+                  <a
+                    href={repo.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
-                    <p className="btn" style={{ color: theme.text }}>
-                      Live
-                    </p>
-                  </div>
-                </a>
-               
-                <a
-                  href={repo.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <div
-                    className="visit-btn"
-                    style={{ backgroundColor: theme.imageHighlight }}
-                  >
-                    <p className="btn" style={{ color: theme.dark }}>
-                      Code
-                    </p>
-                  </div>
-                </a>
-        </div>
-      </Fade>
-    </div>
-  );
+                    <div
+                      className="visit-btn"
+                      style={{ backgroundColor: theme.imageHighlight }}
+                    >
+                      <p className="btn" style={{ color: theme.dark }}>
+                        Code
+                      </p>
+                    </div>
+                  </a>
+          </div>
+        </Fade>
+      </div>
+    );
+  }
+
+  
 }

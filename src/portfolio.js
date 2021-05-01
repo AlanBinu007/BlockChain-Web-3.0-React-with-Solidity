@@ -747,6 +747,7 @@ const projects = {
       id: "2",
       name: "Full Functional Online Student Management System",
       url: " ",
+      live:"",
       description:
         "My BCA final year project that i Published in my college itself. Got so many appreciation",
       languages: [
@@ -768,6 +769,7 @@ const projects = {
       id: "12",
       name: "Face Dectection System",
       url: "",
+      live:"",
       description:
         "A Simple Face-Detion App using Python Computer Vison and Tensorflow.",
       languages: [
@@ -786,6 +788,7 @@ const projects = {
       id: "13",
       name: "ToDo-App",
       url: "",
+      live:"",
       description:
         "A simple ToDo application using REST API with the facility to Add, Remove, Edit and  Get Methods",
       languages: [
@@ -808,7 +811,7 @@ const projects = {
       id: "3",
       name: "E-Commerce Applicatoin",
       url: "https://github.com/AlanBinu007/e_commerce_app",
-      Live : "https://alanbinu-commerce.web.app/",
+      live : "https://alanbinu-commerce.web.app/",
       description:
         "An E-Commerce Application created using ReactJs and famous commercejs as REST API methods",
       languages: [
@@ -822,6 +825,8 @@ const projects = {
       id: "4",
       name: "Full Stack Social Media App",
       url: " ",
+      
+      live:"",
       description:
         "It is a full stack MERN(MongoDb, ExpressJs, ReactJs, Node) Sociak Media Application that multilple user can be able to login at a same time and also able to create their post",
       languages: [

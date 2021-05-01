@@ -75,7 +75,7 @@
 .repo-cards-div-main {
   display: grid;
   /* grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); */
-  gap: 1rem 1rem;
+  gap: 3rem 3rem;
   margin-left: 300px;
   margin-right: 300px;
   margin-top: 60px;
