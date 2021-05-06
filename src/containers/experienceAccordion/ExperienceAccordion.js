@@ -41,14 +41,14 @@ class ExperienceAccordion extends Component {
                     <br />
                     <i>Full Time</i><br /><br />
                     Deleaing with Engineering team as a Front-end and as a
-                    Back-end developer uisng <br />
+                    Back-end developer<br /> uisng
                     ReactJs, AngulatJs and SpringBoot
                     <br />
                     <br />
                     <p>
                       Client : <i>HSBC</i> (Hongkong and Shanghai Banking
-                      Corporation) 6th largest multinational
-                      <br /> investment bank and financial services holding
+                      Corporation) 6th largest <br />multinational
+                       investment bank and financial services holding
                       company
                     </p>
                   </div>
@@ -76,8 +76,8 @@ class ExperienceAccordion extends Component {
                     <i>August 2020 - December 2020</i>
                     <br />
                     <i>Trainee</i><br /><br />
-                    Worked with Selenium and Java to automate my Work <br />
-                    Also i created a new way of automation that successfully
+                    Worked with Selenium and Java to automate my Work 
+                    Also i created a new <br /> way of automation that successfully
                     reduce the work effort by half
                     <br />
                     <br />
@@ -106,10 +106,10 @@ class ExperienceAccordion extends Component {
                       
                     </h3>
                     
-                    <p>Santhisoft is a software product development company in Kerala, India, incorporated in 2005<br/> and is managed by CMI congregation.</p>
+                    <p>Santhisoft is a software product development company in Kerala, India, incorporated <br />in 2005 and is managed by CMI congregation.</p>
                     <p>
                       I worked as a Java Software Developer in SanthiSoft as an
-                      Intern as a part of my final <br />
+                      Intern as a part <br />of my final
                       year project and documentation
                       <br />
                     </p>
@@ -176,7 +176,7 @@ class ExperienceAccordion extends Component {
                     <h3>
                       <i>Santhigiri Institude Of Management, Vazhithala</i>
                     </h3>
-                    Volunteered as a Software Support in a Mega Job Fair with consist of 50+ companies and <br />2500+ Candidates
+                    Volunteered as a Software Support in a Mega Job Fair with consist of 50+<br /> companies and 2500+ Candidates
                     <br />
                     <br />
                   </div>
@@ -200,7 +200,7 @@ class ExperienceAccordion extends Component {
                     <h3>
                       <i>Santhigiri College of Computer Sciences, Vazhithala</i>
                     </h3>
-                    I carry out one of the role for taking an excel project/seminar for our junior students in my<br /> college as a foundation step for their career
+                    I carry out one of the role for taking an excel project/seminar for our junior <br />students in my college as a foundation step for their career
                     <br />
                     
                   </div>
@@ -212,8 +212,8 @@ class ExperienceAccordion extends Component {
 
                   <div class="timeline-header">
                     <h3>
-                      <i>Computer Hardware Explanation</i><br />
-                      <i>and Hardware Assembly</i>
+                      <i>Computer Hardware <br />Explanation</i>
+                      <i>and Assembly</i>
                     </h3>
                     <i>August 2018</i>
                     <br />
@@ -224,7 +224,7 @@ class ExperienceAccordion extends Component {
                     </h3>
                     
                     <p>
-                      Conducted one day seminar to the junior students about the computer hardware, <br />hands-on experience, specification and assemblying like cpu, ram, bios etc... 
+                      Conducted one day seminar to the junior students about the computer <br />hardware, hands-on experience, specification and assemblying like cpu, ram,<br /> bios etc... 
                       <br />
                     </p>
                   </div>
