@@ -123,11 +123,11 @@ class ExperienceAccordion extends Component {
 
                   <div class="timeline-header">
                     <h3>
-                      <i>FreeLancer</i>
+                      <i>Web Tech Solutions</i>
                     </h3>
                     <i>August 2018 - October 2019</i>
                     <br />
-                    <i>Part Time</i>
+                    <i>Founder</i>
                   </div>
 
                   <div class="timeline-content">
@@ -138,7 +138,7 @@ class ExperienceAccordion extends Component {
                     </h3>
                     <i>August 2018 - October 2019</i>
                     <br />
-                    <i>Part Time</i><br /><br />
+                    <i>Self-Employed</i><br /><br />
 
                     <p>
                       Works as a freeLancer specialized in Web Development.

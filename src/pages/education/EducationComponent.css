@@ -54,6 +54,11 @@
   height: auto;
 }
 
+.organizations-imgnewnew {
+  width: 50px;
+  height: auto;
+}
+
 .organizations-inline {
   display: inline-block;
   margin-right: 50px;

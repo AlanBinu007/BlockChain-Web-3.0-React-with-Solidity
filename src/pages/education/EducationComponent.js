@@ -13,6 +13,8 @@ import c from '../../images/c.png';
 import d from '../../images/d.png';
 import e from '../../images/e.png';
 import f from '../../images/f.png';
+import g from '../../images/g.png';
+
 import { OverlayTrigger, Tooltip } from "react-bootstrap";
 
 class Education extends Component {
@@ -33,8 +35,17 @@ class Education extends Component {
               </div>
               <div className="heading-text-div">
                 <h1 className="heading-text" style={{ color: theme.text }}>
-                  Education<br /><br />
+                  Education<br />
                 </h1>
+                
+              <Fade bottom duration={2000} distance="40px">My LeetCode Profile
+                <a href="https://leetcode.com/alanbinu5/" target="_blank"><img
+                  className="organizations-imgnewnew"
+                  src={g}
+                  alt="aaaaaa"
+                /></a>
+                </Fade>
+                
                 <h3  style={{ color: theme.text }}>
                 
                 </h3>
