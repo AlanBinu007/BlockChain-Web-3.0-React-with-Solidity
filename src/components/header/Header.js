@@ -126,12 +126,12 @@ function Header(props) {
             <li>
               <NavLink
                 className="homei"
-                to="/opensource"
+                to="/blog"
                 tag={Link}
                 activeStyle={{ fontWeight: "bold" }}
                 style={{ borderRadius: 5, color: theme.text }}
               >
-                Open Source
+                Blogs
               </NavLink>
             </li>
             <li>

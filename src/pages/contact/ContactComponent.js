@@ -70,46 +70,19 @@ class Contact extends Component {
           </Fade>
           <br />
           <Fade bottom duration={1000} distance="40px">
-            <div className="blog-heading-div">
-              <div className="blog-heading-text-div">
-                <h1 className="blog-heading-text" style={{ color: theme.text }}>
-                  {blogSection["title"]}
-                </h1>
-                <p
-                  className="blog-header-detail-text subTitle"
-                  style={{ color: theme.secondaryText }}
-                >
-                "Blogging is not rocket science. It’s about being yourself and putting what you have into it.”
-                </p>
-                <div className="resume-btn-div">
-                <a href="https://hashnode.com/@alanbinu" target="_blank">
-                  <button
-                  className="button1"
-                >
-                  My Blog Page
-                </button>  
-                  </a>
-                </div>
-              </div>
-              <div className="blog-heading-img-div">
-                {/* <img
-											src={require(`../../assests/images/${blogSection["avatar_image_path"]}`)}
-											alt=""
-										/> */}
-                <BlogsImg theme={theme} />
-              </div>
-            </div>
+           
           </Fade>
           <Fade bottom duration={1000} distance="40px">
             <div className="address-heading-div">
+            <div className="address-heading-text-div">
+                <ContactForm />
+                
+              </div>
               <div className="contact-heading-img-div">
                 
                 <AddressImg theme={theme} />
               </div>
-              <div className="address-heading-text-div">
-                <ContactForm />
-                
-              </div>
+              
             </div>
           </Fade>
         </div>
