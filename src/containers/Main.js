@@ -16,7 +16,7 @@ export default class Main extends Component {
     if (settings.isSplash) {
       return (
         <div>
-          <HashRouter basename="/">
+          <HashRouter>
             <Switch>
               <Route
                 path="/"
@@ -73,7 +73,7 @@ export default class Main extends Component {
     } else {
       return (
         <div>
-          <HashRouter basename="/">
+          <HashRouter>
             <Switch>
               <Route
                 path="/"
