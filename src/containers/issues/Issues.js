@@ -66,7 +66,7 @@ const toggle = (props) => {
           <div class="blog-body">
             <div class="box-content">
               <h3 class="post-title">Keep Your Stuff Alive</h3>
-              <span class="blog-meta">10 November 2084 by Tawana</span>
+              
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias,
                 deleniti, id quibusdam aut optio saepe soluta tempore neque
@@ -85,7 +85,7 @@ const toggle = (props) => {
           <div class="blog-body">
             <div class="box-content">
               <h3 class="post-title">Keep Your Stuff Alive</h3>
-              <span class="blog-meta">10 November 2084 by Tawana</span>
+              
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias,
                 deleniti, id quibusdam aut optio saepe soluta tempore neque
@@ -93,8 +93,7 @@ const toggle = (props) => {
               </p>
             </div>
           </div>
-        </div>
-        <div class="post-masonry col-md-6 col-sm-6">
+        </div><div class="post-masonry col-md-6 col-sm-6">
           <div class="blog-thumb">
             <a href="blog-single.html">
               {" "}
@@ -104,7 +103,7 @@ const toggle = (props) => {
           <div class="blog-body">
             <div class="box-content">
               <h3 class="post-title">Keep Your Stuff Alive</h3>
-              <span class="blog-meta">10 November 2084 by Tawana</span>
+              
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias,
                 deleniti, id quibusdam aut optio saepe soluta tempore neque
@@ -112,46 +111,7 @@ const toggle = (props) => {
               </p>
             </div>
           </div>
-        </div>
-        <div class="post-masonry col-md-6 col-sm-6">
-          <div class="blog-thumb">
-            <a href="blog-single.html">
-              {" "}
-              <img src={ai} alt="" />
-            </a>
-          </div>
-          <div class="blog-body">
-            <div class="box-content">
-              <h3 class="post-title">Keep Your Stuff Alive</h3>
-              <span class="blog-meta">10 November 2084 by Tawana</span>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias,
-                deleniti, id quibusdam aut optio saepe soluta tempore neque
-                voluptatum.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="post-masonry col-md-6 col-sm-6">
-          <div class="blog-thumb">
-            <a href="blog-single.html">
-              {" "}
-              <img src={java} alt="" />
-            </a>
-          </div>
-          <div class="blog-body">
-            <div class="box-content">
-              <h3 class="post-title">Keep Your Stuff Alive</h3>
-              <span class="blog-meta">10 November 2084 by Tawana</span>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias,
-                deleniti, id quibusdam aut optio saepe soluta tempore neque
-                voluptatum.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="post-masonry col-md-6 col-sm-6">
+        </div><div class="post-masonry col-md-6 col-sm-6">
           <div class="blog-thumb">
             <a href="blog-single.html">
               {" "}
@@ -161,7 +121,7 @@ const toggle = (props) => {
           <div class="blog-body">
             <div class="box-content">
               <h3 class="post-title">Keep Your Stuff Alive</h3>
-              <span class="blog-meta">10 November 2084 by Tawana</span>
+              
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias,
                 deleniti, id quibusdam aut optio saepe soluta tempore neque
