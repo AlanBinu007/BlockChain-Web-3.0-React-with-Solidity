@@ -75,7 +75,7 @@ const toggle = (props) => {
             </div>
           </div>
         </div>
-        <div class="post-masonry col-md-6 col-sm-6">
+        <div class="post-masonry col-md-6">
           <div class="blog-thumb">
             <a href="blog-single.html">
               {" "}
