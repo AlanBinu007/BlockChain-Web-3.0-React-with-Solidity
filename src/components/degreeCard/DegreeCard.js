@@ -29,7 +29,7 @@ class DegreeCard extends Component {
               />
             </div>
           </Flip>
-        
+
           <Fade right duration={2000} distance="40px">
             <div className="card-body">
               <div
@@ -45,9 +45,9 @@ class DegreeCard extends Component {
                   </h3>
                   <h3 className="card-subtitle" style={{ color: theme.text }}>
                     Canadian Equivalency : MASTER'S DEGREE (Verifyed By{" "}
-                   
+
                       WES
-                   
+
                     )
                   </h3>
                 </div>
@@ -105,7 +105,7 @@ class DegreeCard extends Component {
                     Online Specilization Course
                   </h3>
                   <h3 className="card-subtitle" style={{ color: theme.text }}>
-                    
+
                   </h3>
                 </div>
                 <div className="body-header-duration">
@@ -116,20 +116,20 @@ class DegreeCard extends Component {
               </div>
               <div classname="body-content">
                 <br />
-                
-                  
-                    <p className="content-list" style={{ color: theme.text }}>
-                      <br />
+
+
+                <p className="content-list" style={{ color: theme.text }}>
+                  <br />
                       ⚡ This Spezilization consist of 10 courses Data Science Capstone,eveloping Data Products
 Practical Machine Learning ,The Data Scientist’s Toolbox ,
 Regression Models ,Exploratory Data Analysis, Reproducible Research ,R Programming ,Getting and Cleaning Data, Statistical Inference
                     </p>
-                    <p className="content-list" style={{ color: theme.text }}>
-                      <br />
+                <p className="content-list" style={{ color: theme.text }}>
+                  <br />
                       ⚡ After the completion of all the course we awarded the final certificte with co-operate with coursera
                     </p>
-                 
-                
+
+
                 <a
                   href="https://www.jhu.edu/"
                   target="_blank"
@@ -182,7 +182,7 @@ Regression Models ,Exploratory Data Analysis, Reproducible Research ,R Programmi
               />
             </div>
           </Flip>
-        
+
           <Fade right duration={2000} distance="40px">
             <div className="card-body">
               <div
@@ -191,12 +191,12 @@ Regression Models ,Exploratory Data Analysis, Reproducible Research ,R Programmi
               >
                 <div className="body-header-title">
                   <h2 className="card-title" style={{ color: theme.text }}>
-                  Applied Data Science with Python
+                    Applied Data Science with Python
                   </h2>
                   <h3 className="card-subtitle" style={{ color: theme.text }}>
                     Online Specilization
                   </h3>
-                  
+
                 </div>
                 <div className="body-header-duration">
                   <h3 className="duration" style={{ color: theme.text }}>
@@ -206,31 +206,31 @@ Regression Models ,Exploratory Data Analysis, Reproducible Research ,R Programmi
               </div>
               <div classname="body-content">
                 <br />
-                
-                    <p className="content-list" style={{ color: theme.text }}>
-                      <br />
-                      ⚡ This Spezilization consist of 5 Sub Courses Applied Machine Learning in Python, 
 
-Applied Plotting, Charting & Data Representation in Python, 
+                <p className="content-list" style={{ color: theme.text }}>
+                  <br />
+                      ⚡ This Spezilization consist of 5 Sub Courses Applied Machine Learning in Python,
 
-Introduction to Data Science in Python, 
+Applied Plotting, Charting & Data Representation in Python,
 
-Applied Text Mining in Python, 
+Introduction to Data Science in Python,
+
+Applied Text Mining in Python,
 
 Applied Social Network Analysis in Python
                       <br />
-                    </p>
+                </p>
 
-                    <p className="content-list" style={{ color: theme.text }}>
-                      <br />⚡ Conduct an inferential statistical analysis
+                <p className="content-list" style={{ color: theme.text }}>
+                  <br />⚡ Conduct an inferential statistical analysis
 
 Discern whether a data visualization is good or bad
 
 Enhance a data analysis with applied machine learning
 
 Analyze the connectivity of a social network<br />
-                    </p>
-                  
+                </p>
+
                 <a
                   href="https://umich.edu/"
                   target="_blank"
@@ -265,9 +265,9 @@ Analyze the connectivity of a social network<br />
                     Machine Learning
                   </h2>
                   <h3 className="card-subtitle" style={{ color: theme.text }}>
-                   Online Specilization
+                    Online Specilization
                   </h3>
-                  
+
                 </div>
                 <div className="body-header-duration">
                   <h3 className="duration" style={{ color: theme.text }}>
@@ -277,25 +277,25 @@ Analyze the connectivity of a social network<br />
               </div>
               <div classname="body-content">
                 <br />
-                
-                    <p className="content-list" style={{ color: theme.text }}>
-                      <br />
+
+                <p className="content-list" style={{ color: theme.text }}>
+                  <br />
                       ⚡ This Spezilization contain 4 Sub Courses Machine Learning Foundations: A Case Study Approach
 
-Machine Learning: Regression, 
+Machine Learning: Regression,
 
-Machine Learning: Classification, 
+Machine Learning: Classification,
 
 Machine Learning: Clustering & Retrieval
                     </p>
-                    <p className="content-list" style={{ color: theme.text }}>
-                      <br />
+                <p className="content-list" style={{ color: theme.text }}>
+                  <br />
                       ⚡ The main skill that we can develope by this course are Data Clustering Algorithms
-Machine Learning, 
-Classification Algorithms, 
-Decision Tree 
+Machine Learning,
+Classification Algorithms,
+Decision Tree
                     </p>
-                 
+
                 <a
                   href="https://www.washington.edu/"
                   target="_blank"
@@ -347,9 +347,9 @@ Decision Tree
               />
             </div>
           </Flip>
-        
+
           <Fade right duration={2000} distance="40px">
-          <div className="card-body">
+            <div className="card-body">
               <div
                 className="body-header"
                 style={{ backgroundColor: theme.headerColor }}
@@ -364,9 +364,9 @@ Decision Tree
                   <h3 className="card-subtitle" style={{ color: theme.text }}>
                     Canadian Equivalency : 4 YEAR BACHELOR'S DEGREE
                     &nbsp;(Verifyed By{" "}
-                   
+
                       WES
-                   
+
                     )
                   </h3>
                 </div>

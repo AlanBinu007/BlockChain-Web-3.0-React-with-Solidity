@@ -31,7 +31,7 @@ class Experience extends Component {
                   className="experience-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}
                 >
-                  <i>"Success is the ability to go from failure to failure without losing your enthusiasm."</i>
+                  "Success is the ability to go from failure to failure without losing your enthusiasm."
                 </p>
                 <h3
                   className="experience-heading-sub-text"
@@ -43,15 +43,15 @@ class Experience extends Component {
                   className="experience-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}
                 >
-                  <i>"As a programmer, it is your job to put yourself out of
-                  business. What you do today can be automated tomorrow"</i>
+                  "As a programmer, it is your job to put yourself out of
+                  business. What you do today can be automated tomorrow"
                 </p>
                 <p
                   className="experience-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}
                 >
-                  <i>"Any one can write code that a computer can understand. But a
-                  good programmers can write code that humans can understand."</i>
+                  "Any one can write code that a computer can understand. But a
+                  good programmers can write code that humans can understand."
                 </p>
               </div>
             </div>

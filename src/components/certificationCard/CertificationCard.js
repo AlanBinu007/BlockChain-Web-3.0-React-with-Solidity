@@ -580,8 +580,12 @@ class CertificationCard extends Component {
                 Johns Hopkins University
               </h3>
             </div>
-          </div><center><a href="https://drive.google.com/folderview?id=1H-tOOipJ0lx7B1FE3tJh7zRcEOO4IhJE" target="_blank">
-          <button className="button">View More</button></a></center>
+            
+          </div>
+          <center>
+            <a href="https://drive.google.com/folderview?id=1H-tOOipJ0lx7B1FE3tJh7zRcEOO4IhJE" target="_blank">
+          <button className="button">View More</button></a>
+          </center>
         
         </Fade>
         

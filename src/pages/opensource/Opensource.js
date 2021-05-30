@@ -17,7 +17,7 @@ class Opensource extends Component {
         <br/><br/><br/>
         <Organizations theme={this.props.theme} />
         <OpensourceCharts theme={this.props.theme} />
-        {/* <PullRequests theme={this.props.theme} /> */}
+        <PullRequests theme={this.props.theme} />
         
         <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
         <TopButton theme={this.props.theme} />

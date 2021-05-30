@@ -45,14 +45,20 @@ class Education extends Component {
                   alt="aaaaaa"
                 /></a>
                 </Fade>
+                <p
+                  className="experience-header-detail-text subTitle"
+                  style={{ color: theme.secondaryText }}
+                >
+                 “Education is the most powerful weapon which you can use to change the world” – <b>Nelson Mandela</b><br/><br />
+                “An investment in knowledge pays the best interest” – <b>Benjamin Franklin</b><br /><br />
+              "Some of the brightest minds in the country can be found on the last benches of the classroom"-<b>Dr.APJ Abdul Kalam</b>
+                </p>
                 
                 <h3  style={{ color: theme.text }}>
                 
-                </h3>
-                <i>“Education is the most powerful weapon which you can use to change the world” – <b>Nelson Mandela</b></i><br/><br />
-                <i>“An investment in knowledge pays the best interest” – <b>Benjamin Franklin</b></i><br /><br />
-              <i>"Some of the brightest minds in the country can be found on the last benches of the classroom"-<b>Dr.APJ Abdul Kalam</b></i>
-              </div>
+                
+                
+             </h3> </div>
             </div>
           </Fade>
           <center><h3 className="heading-sub-text" style={{ color: theme.text }}>

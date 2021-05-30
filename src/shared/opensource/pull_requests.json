@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "MDExOlB1bGxSZXF1ZXN0NjIyNzE5Mzg4",
-      "title": "Create onfig",
+      "title": "Create Config and Edid the existing file",
       "url": "https://github.com/aws/aws-cdk/pull/14367",
       "state": "OPEN",
       "mergedBy": null,

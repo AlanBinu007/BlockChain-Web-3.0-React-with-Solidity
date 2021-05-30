@@ -14,7 +14,7 @@ function Header(props) {
   const styles = style({
     cursor: "pointer",
     height: "45px",
-    width: "45px",
+    width: "65px",
     marginRight: "5px",
     marginLeft: "15px",
     paddingTop: "5px",

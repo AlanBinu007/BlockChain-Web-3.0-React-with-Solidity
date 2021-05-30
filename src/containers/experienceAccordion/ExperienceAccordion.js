@@ -8,9 +8,8 @@ class ExperienceAccordion extends Component {
     const theme = this.props.theme;
     return (
       <>
-        {" "}
         <Fade bottom duration={2000} distance="40px">
-          <>
+          
             <div class="container">
               <center>
                 <h2>Work Experience</h2>
@@ -94,7 +93,7 @@ class ExperienceAccordion extends Component {
                     <h3>
                       <i>SanthiSoft Technology</i>
                     </h3>
-                    <i>October 2019 - January 2020</i>
+                    <i>November 2019 - march 2020</i>
                     <br />
                     <i>Intership</i>
                   </div>
@@ -127,7 +126,7 @@ class ExperienceAccordion extends Component {
                     </h3>
                     <i>August 2018 - October 2019</i>
                     <br />
-                    <i>Founder</i>
+                    <i>CEO & Founder</i>
                   </div>
 
                   <div class="timeline-content">
@@ -153,7 +152,7 @@ class ExperienceAccordion extends Component {
             </div>
             <div class="container">
               <center>
-                <h2>Volunteer Experience</h2>
+                <h2><i>Volunteer Experience</i></h2>
               </center>
               <br />
               <div class="col-twelve"></div>
@@ -233,7 +232,7 @@ class ExperienceAccordion extends Component {
                 
               </div>
             </div>
-          </>
+         
         </Fade>
       </>
     );

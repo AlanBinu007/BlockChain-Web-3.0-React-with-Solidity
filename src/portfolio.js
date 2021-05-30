@@ -843,7 +843,7 @@ const projects = {
     {
       id: "4",
       name: "Full Stack Social Media App",
-      url: " ",
+      url: "https://github.com/AlanBinu007/MERN-Sample-Social-Media-App",
       tech:"Technologies Used : ReactJs, MongoDb, ExpressJs, NodeJs",
       live:"",
       description:

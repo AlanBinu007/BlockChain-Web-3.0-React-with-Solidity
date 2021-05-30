@@ -4,6 +4,7 @@ import Footer from "../../components/footer/Footer";
 import { Fade } from "react-reveal";
 import { projectsHeader, projects } from "../../portfolio.js";
 import "./Projects.css";
+import TopButton from "../../components/topButton/TopButton";
 import ProjectsImg from "./ProjectsImg";
 import { style } from "glamor";
 import ProjectCard from "../../components/ProjectCard/ProjectCard";
@@ -40,14 +41,14 @@ function Projects(props) {
                 className="projects-header-detail-text subTitle"
                 style={{ color: theme.secondaryText }}
               >
-                <i>“Success is the delivery of a product that meets expectation”</i>
+               “Success is the delivery of a product that meets expectation”
               </p>
 
               <p
                 className="projects-header-detail-text subTitle"
                 style={{ color: theme.secondaryText }}
               >
-                <i>"If you hold a candle close to you, its flame rises. And if you hold it away from you, its flame shrinks. The same way you hold a candle close to you, keep all your plans, aspirations, projects, and dreams close to you too. Do not share your plans or goals until you complete them, because as you hold your candle away from you, your goals will shrink in the eyes of others"</i>
+                "If you hold a candle close to you, its flame rises. And if you hold it away from you, its flame shrinks. The same way you hold a candle close to you, keep all your plans, aspirations, projects, and dreams close to you too. Do not share your plans or goals until you complete them, because as you hold your candle away from you, your goals will shrink in the eyes of others"
               </p>
             </div>
           </div>
@@ -71,6 +72,7 @@ function Projects(props) {
       <br />
       <br />
       <Footer theme={props.theme} onToggle={props.onToggle} />
+   
     </div>
   );
 }
