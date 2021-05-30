@@ -148,7 +148,7 @@
     min-height: 1px;
     padding-left: 15px;
     padding-right: 15px;
-    
+    margin-left:100px;
   }
 
   .post-masonry {
@@ -623,7 +623,7 @@
     }
   
     .col-md-6 {
-      width: 50%;
+      width: 40%;
     }
   
     .col-md-7 {

@@ -10,7 +10,7 @@ import java from "../../images/img1.jpg";
   return (
     <Fade bottom duration={2000} distance="20px">
     <div class="row">
-      <div class="post-masonry col-md-4 col-sm-6">
+      <div class="post-masonry col-md-6 col-sm-6">
         <div class="blog-thumb">
           <a href="blog-single.html"> <img src={a} alt="" /></a>
         </div>
@@ -28,7 +28,7 @@ import java from "../../images/img1.jpg";
           </div>
         </div>
       </div>
-      <div class="post-masonry col-md-4 col-sm-6">
+      <div class="post-masonry col-md-6 col-sm-6">
         <div class="blog-thumb">
           <a href="blog-single.html"> <img src={a} alt="" /></a>
         </div>
@@ -46,7 +46,7 @@ import java from "../../images/img1.jpg";
           </div>
         </div>
       </div>
-      <div class="post-masonry col-md-4 col-sm-6">
+      <div class="post-masonry col-md-6 col-sm-6">
         <div class="blog-thumb">
           <a href="blog-single.html"> <img src={a} alt="" /></a>
         </div>
@@ -64,7 +64,7 @@ import java from "../../images/img1.jpg";
           </div>
         </div>
       </div>
-      <div class="post-masonry col-md-4 col-sm-6">
+      <div class="post-masonry col-md-6 col-sm-6">
         <div class="blog-thumb">
           <a href="blog-single.html"> <img src={ai} alt="" /></a>
         </div>
@@ -82,7 +82,7 @@ import java from "../../images/img1.jpg";
           </div>
         </div>
       </div>
-      <div class="post-masonry col-md-4 col-sm-6">
+      <div class="post-masonry col-md-6 col-sm-6">
         <div class="blog-thumb">
           <a href="blog-single.html"> <img src={java} alt="" /></a>
         </div>
@@ -100,7 +100,7 @@ import java from "../../images/img1.jpg";
           </div>
         </div>
       </div>
-      <div class="post-masonry col-md-4 col-sm-6">
+      <div class="post-masonry col-md-6 col-sm-6">
         <div class="blog-thumb">
           <a href="blog-single.html"> <img src={a} alt="" /></a>
         </div>
