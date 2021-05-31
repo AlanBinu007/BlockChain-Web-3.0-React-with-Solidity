@@ -21,8 +21,9 @@ const toggle = (props) => {
     },
   });
   return (
+    <>
     <Fade bottom duration={2000} distance="20px">
-      <Fade bottom duration={1000} distance="40px">
+      
         <div className="blog-heading-div">
           <div className="blog-heading-img-div">
             <BlogsImg theme={theme} />
@@ -47,7 +48,7 @@ const toggle = (props) => {
             </div>
           </div>
         </div>
-      </Fade>
+     
 
       <br />
       <br />
@@ -127,11 +128,14 @@ const toggle = (props) => {
                 deleniti, id quibusdam aut optio saepe soluta tempore neque
                 voluptatum.
               </p>
+              
             </div>
           </div>
         </div>
-      </div>
+        
+      </div><br/><br/>
     </Fade>
+    </>
   );
 };
 

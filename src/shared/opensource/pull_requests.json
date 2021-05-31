@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "MDExOlB1bGxSZXF1ZXN0NjIyNzE5Mzg4",
-      "title": "Create Config and Edid the existing file",
+      "title": "Create Config and Edit the existing file",
       "url": "https://github.com/aws/aws-cdk/pull/14367",
       "state": "OPEN",
       "mergedBy": null,

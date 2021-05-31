@@ -84,7 +84,7 @@ class PullRequestCard extends Component {
               <div className="pr-title-header">
                 <p className="pr-title">
                   <a
-                    href={pullRequest["url"]}
+                    href={pullRequest["baseRepository"]["url"]}
                     target="_blank"
                     rel="noopener noreferrer"
                   >
