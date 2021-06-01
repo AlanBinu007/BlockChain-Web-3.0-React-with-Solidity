@@ -11,6 +11,7 @@
     "emailjs-com": "^2.6.4",
     "firebase-tools": "^9.10.0",
     "glamor": "^2.20.40",
+    "mdbreact": "^5.0.2",
     "node-fetch": "^2.6.1",
     "node-sass": "^6.0.0",
     "react": "^17.0.2",
