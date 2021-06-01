@@ -122,7 +122,7 @@ const toggle = (props) => {
           </div>
           <div class="post-masonry col-md-6 col-sm-6">
             <div class="blog-thumb">
-              <a href="https://alanbinu.hashnode.dev/how-to-get-start-with-react-create-your-first-project" target="_blank">">
+              <a href="https://alanbinu.hashnode.dev/how-to-get-start-with-react-create-your-first-project" target="_blank">
                 {" "}
                 <img src={react} alt="" />
               </a>
@@ -173,7 +173,7 @@ const toggle = (props) => {
           </div>
           <div class="post-masonry col-md-6 col-sm-6">
             <div class="blog-thumb">
-              <a href="https://alanbinu.hashnode.dev/how-to-use-linkedin-to-get-a-job-1?guid=cbd4b2da-a1a2-4e4f-8c12-b68a19e1dd4c&deviceId=14e285ba-03f0-43bc-82c2-2f2bcf40fa67" target="_blank">>
+              <a href="https://alanbinu.hashnode.dev/how-to-use-linkedin-to-get-a-job-1?guid=cbd4b2da-a1a2-4e4f-8c12-b68a19e1dd4c&deviceId=14e285ba-03f0-43bc-82c2-2f2bcf40fa67" target="_blank">
                 {" "}
                 <img src={linkedin} alt="" />
               </a>

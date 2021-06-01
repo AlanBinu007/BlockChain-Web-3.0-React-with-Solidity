@@ -74,7 +74,7 @@ class ExperienceAccordion extends Component {
                     </h3>
                     <i>August 2020 - December 2020</i>
                     <br />
-                    <i>Trainee</i><br /><br />
+                    <i>Full Time</i><br /><br />
                     Worked with Selenium and Java to automate my Work 
                     Also i created a new <br /> way of automation that successfully
                     reduce the work effort by half
@@ -84,6 +84,36 @@ class ExperienceAccordion extends Component {
                     <br />
                   </div>
                 </div>
+
+                <div class="timeline-block">
+                  <div class="timeline-ico">
+                    <i class="fa fa-briefcase" aria-hidden="true"></i>
+                  </div>
+
+                  <div class="timeline-header">
+                    <h3>
+                      <i>Indel Systems</i>
+                    </h3>
+                    <i>April 2020 - July 2020</i>
+                    <br />
+                    <i>Intership</i>
+                  </div>
+
+                  <div class="timeline-content">
+                    
+                    <h3>
+                      <i>Junior Web Developer</i>
+                      
+                    </h3>
+                    
+                    <p>Indel System is a small software based company founded in 1992.<br />This is a private company consist of 14 employees</p>
+                    <p>
+                      I worked as a Web Developer in Indel Systems<br/>
+                      The main technologies that i used over ther are JSP, HTML, CSS, JQuery, PHP etc..<br />
+                    </p>
+                  </div>
+                </div>
+
                 <div class="timeline-block">
                   <div class="timeline-ico">
                     <i class="fa fa-briefcase" aria-hidden="true"></i>
@@ -135,9 +165,8 @@ class ExperienceAccordion extends Component {
                       <i>Web Developer</i>
                       
                     </h3>
-                    <i>August 2018 - October 2019</i>
-                    <br />
-                    <i>Self-Employed</i><br /><br />
+                    
+                   
 
                     <p>
                       Works as a freeLancer specialized in Web Development.
@@ -157,6 +186,53 @@ class ExperienceAccordion extends Component {
               <br />
               <div class="col-twelve"></div>
               <div class="timeline-wrap">
+              <div class="timeline-block">
+                  <div class="timeline-ico">
+                  <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+                  </div>
+
+                  <div class="timeline-header">
+                    <h3>
+                      <i>HR Assistant for <br/>Off Campus Drive</i>
+                    </h3>
+                    <i>April 2021</i>
+                    <br />
+                    
+                  </div>
+
+                  <div class="timeline-content">
+                    <h3>
+                      <i>Infosys, Pune</i>
+                    </h3>
+                    Support the HR for Conducteting the Campus Drive<br /> I worked as an assistant for following up each and every candidate
+                    <br />
+                    <br />
+                  </div>
+                </div>
+              <div class="timeline-block">
+                  <div class="timeline-ico">
+                  <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+                  </div>
+
+                  <div class="timeline-header">
+                    <h3>
+                      <i>GitHub Contributor</i>
+                    </h3>
+                    <i>July 2019</i>
+                    <br />
+                    
+                  </div>
+
+                  <div class="timeline-content">
+                    <h3>
+                      <i>private IT Clubs </i>
+                    </h3>
+                    Contributed codes for Various organization and also support for solving some<br/> of my colleagues code issues
+                    <br />
+                    <br />
+                  </div>
+                </div>
+               
                 <div class="timeline-block">
                   <div class="timeline-ico">
                   <i class="fa fa-thumbs-up" aria-hidden="true"></i>
