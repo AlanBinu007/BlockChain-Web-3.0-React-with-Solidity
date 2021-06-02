@@ -66,7 +66,7 @@ const toggle = (props) => {
         <br />
 
         <Fade bottom duration={2000} distance="20px">
-        <div class="row">
+        <div class="content-container">
           
           <br />
           <div class="post-masonry col-md-6 col-sm-6">
@@ -81,7 +81,7 @@ const toggle = (props) => {
                 <h3 class="post-title">How to get started with Artificial Intelligence</h3>
 
                 <p>
-                  Artificial intelligence is one of the most significant breakthroughs of the 21st century. Many industries study its capabilities and discover new ways of its application.
+                  Artificial intelligence is one of the most significant breakthroughs of the 21st century. Many industries study its capabilities and discover new ways.
                 </p>
               </div>
             </div>
@@ -115,7 +115,7 @@ const toggle = (props) => {
                 <h3 class="post-title">What Should I learn AWS or GCP or AZURE🤔❓</h3>
 
                 <p>
-                Cloud is the Internet, it's all of the things you can access remotely over the Internet. When something is in the cloud, it means it's stored on Internet servers.
+                Cloud is the Internet, it's all of the things you can access remotely over the Internet. When something is in the cloud, it means it's stored on Internet.
                 </p>
               </div>
             </div>
