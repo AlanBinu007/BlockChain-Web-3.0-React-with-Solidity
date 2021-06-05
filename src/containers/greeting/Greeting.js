@@ -60,7 +60,7 @@ export default function Greeting(props) {
                     history.push("/contact");
                   }}
                 >
-                  Contact Me
+                  Hire Me
                 </button>  
                   
                 

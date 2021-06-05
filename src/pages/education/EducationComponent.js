@@ -14,6 +14,7 @@ import d from '../../images/d.png';
 import e from '../../images/e.png';
 import f from '../../images/f.png';
 import g from '../../images/g.png';
+import hr from '../../images/hr.png';
 
 import { OverlayTrigger, Tooltip } from "react-bootstrap";
 
@@ -38,7 +39,13 @@ class Education extends Component {
                   Education<br />
                 </h1>
                 
-              <Fade bottom duration={2000} distance="40px">My LeetCode Profile
+              <Fade bottom duration={2000} distance="40px">My HackerRank Profile
+                <a href="https://www.hackerrank.com/alanbinu5" target="_blank"><img
+                  className="organizations-imgnewnew"
+                  src={hr}
+                  alt="aaaaaa"
+                /></a>
+                My LeetCode Profile
                 <a href="https://leetcode.com/alanbinu5/" target="_blank"><img
                   className="organizations-imgnewnew"
                   src={g}

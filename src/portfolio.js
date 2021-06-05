@@ -70,6 +70,8 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
+        "⚡ Proffestional in Spring Full Stack Developent",
+
         "⚡ Building responsive website front end using ReactJS",
         
         "⚡ Creating application backend in Node, Express & SpringBoot",
