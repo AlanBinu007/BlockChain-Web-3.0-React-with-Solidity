@@ -34,12 +34,26 @@ export default function Greeting(props) {
                 <span style={{ color: theme.accentColor }}>
                   {greeting.full_name}.{" "}
                 </span><br />
+                CEO & Founder of Web Tech Solutions
+              </p>
+              <p
+                className="greeting-text-p subTitle"
+                style={{ color: theme.secondaryText }}
+              >
                 I am a Full Stack Engineer 
               </p>
               
               <SocialMedia />
               <div className="portfolio-repo-btn-div">
+              <a href="https://web-tech-solutions.web.app/" target="_blank">
                 <button
+                 className="button1"
+                >
+                  Web Tech Solutions
+                </button>
+                  </a>
+                  <button
+                  
                   {...styles}
                   className="button"
                   onClick={() => {
@@ -47,14 +61,8 @@ export default function Greeting(props) {
                   }}
                 >
                   Contact Me
-                </button>
-                  <a href="https://drive.google.com/uc?export=download&id=1E8zVAoWa73sy7ZXSUKLYWqX31pmUj-PH" download>
-                  <button
-                  className="button1"
-                >
-                  My Resume
                 </button>  
-                  </a>
+                  
                 
 
             </div>

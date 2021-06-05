@@ -69,6 +69,7 @@
   font-size: 17px;
   transition: all 0.2s ease-in-out;
   cursor: pointer;
+  margin-left: 15px;
 }
 
 .button1 {
@@ -88,6 +89,8 @@
   transition: all 0.2s ease-in-out;
   cursor: pointer; 
   margin-left: 25px; 
+  margin-left:0px; 
+  
 }
 
 /* Media Query */
