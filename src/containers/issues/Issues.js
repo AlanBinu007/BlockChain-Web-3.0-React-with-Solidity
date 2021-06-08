@@ -11,8 +11,6 @@ import cloud from "../../images/cloud.png";
 import react from "../../images/react.png";
 import tech from "../../images/tech.png";
 import datascience from "../../images/datascience.png";
-import algorithm from "../../images/algorithm.png";
-import resume from "../../images/resume.png";
 import github from "../../images/github.png";
 import linkedin from "../../images/linkedin.png";
 import spring from "../../images/spring.png";
@@ -60,7 +58,7 @@ const toggle = (props) => {
         </div>
         </Fade>
         <center>
-            <h2 style={{ color: theme.text }}>My Blogs</h2>
+            <h2 style={{ color: theme.text }}>My Latest Blogs</h2>
           </center>
         <br />
         <br />
@@ -78,11 +76,14 @@ const toggle = (props) => {
             </div>
             <div class="blog-body">
               <div class="box-content">
-                <h3 class="post-title">How to get started with Artificial Intelligence</h3>
-
-                <p>
-                  Artificial intelligence is one of the most significant breakthroughs of the 21st century. Many industries study its capabilities and discover new ways.
-                </p>
+                <h3 class="">How to get started with Artificial Intelligence</h3>
+                <center><Button
+              text="Read More"
+              newTab={true}
+              href="https://alanbinu.hashnode.dev/how-to-get-started-with-artificial-intelligence-ckp754vv90fv6mds1fgxtg4dl"
+              theme=""
+            /></center>
+                
               </div>
             </div>
           </div>
@@ -95,11 +96,14 @@ const toggle = (props) => {
             </div>
             <div class="blog-body">
               <div class="box-content">
-                <h3 class="post-title">Getting started with Competitive Programming</h3>
+                <h3 class="">Getting started with Competitive Programming</h3>
 
-                <p>
-                Generally competitive programming is a mind sport where everyone showcase his/her skills of problem solving under various constraints.
-                </p>
+               <center> <Button
+              text="Read More"
+              newTab={true}
+              href="https://alanbinu.hashnode.dev/getting-started-with-competitive-programming-ckp7xf2qf0jldmds16f0e92qh"
+              theme=""
+            /></center>
               </div>
             </div>
           </div>
@@ -112,11 +116,14 @@ const toggle = (props) => {
             </div>
             <div class="blog-body">
               <div class="box-content">
-                <h3 class="post-title">What Should I learn AWS or GCP or AZURE🤔❓</h3>
+                <h3 class="">What Should I learn AWS or GCP or AZURE🤔</h3>
 
-                <p>
-                Cloud is the Internet, it's all of the things you can access remotely over the Internet. When something is in the cloud, it means it's stored on Internet.
-                </p>
+               <center> <Button
+              text="Read More"
+              newTab={true}
+              href="https://alanbinu.hashnode.dev/what-should-i-learn-aws-or-gcp-or-azure-in-2021"
+              theme=""
+            /></center>
               </div>
             </div>
           </div>
@@ -129,11 +136,14 @@ const toggle = (props) => {
             </div>
             <div class="blog-body">
               <div class="box-content">
-                <h3 class="post-title">How To Get Start With React-Create Your First Project</h3>
+                <h3 class="">Get Start With Your First React Project</h3>
 
-                <p>
-                React is an open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook 
-                </p>
+              <center>  <Button
+              text="Read More"
+              newTab={true}
+              href="https://alanbinu.hashnode.dev/how-to-get-start-with-react-create-your-first-project"
+              theme=""
+            /></center>
               </div>
             </div>
           </div>
@@ -146,11 +156,14 @@ const toggle = (props) => {
             </div>
             <div class="blog-body">
               <div class="box-content">
-                <h3 class="post-title">What next in tech industries🤔?</h3>
+                <h3 class="">What next in tech industries🤔?</h3>
 
-                <p>
-                Technology today is evolving at such a rapid pace, enabling faster change and progress, causing an acceleration, until eventually it will become exponential.
-                </p>
+               <center> <Button
+              text="Read More"
+              newTab={true}
+              href="https://alanbinu.hashnode.dev/what-next-in-tech-industries"
+              theme=""
+            /></center>
               </div>
             </div>
           </div>
@@ -163,11 +176,14 @@ const toggle = (props) => {
             </div>
             <div class="blog-body">
               <div class="box-content">
-                <h3 class="post-title">Data Science🔥 Should i need to learn for coming years?🤔</h3>
+                <h3 class="">Data Science🔥 Should i need to learn it?🤔</h3>
 
-                <p>
-                Data science is an essential part of any industry today, given the massive amounts of data that are produced.Data science is one of the most debated topics in the industries.
-                </p>
+                <center><Button
+              text="Read More"
+              newTab={true}
+              href="https://alanbinu.hashnode.dev/data-science-should-i-need-to-learn-for-coming-years"
+              theme=""
+            /></center>
               </div>
             </div>
           </div>
@@ -180,11 +196,14 @@ const toggle = (props) => {
             </div>
             <div class="blog-body">
               <div class="box-content">
-                <h3 class="post-title">How to Use LinkedIn to Get a Job</h3>
+                <h3 class=" ">How to Use LinkedIn to Get a Job</h3>
 
-                <p>
-                The issue is that if you're only updating your profile now and then, you're not fully utilizing all LinkedIn can do for you, which includes taking hours off of your job search.
-                </p>
+               <center> <Button
+              text="Read More"
+              newTab={true}
+              href="https://alanbinu.hashnode.dev/how-to-use-linkedin-to-get-a-job-1?guid=cbd4b2da-a1a2-4e4f-8c12-b68a19e1dd4c&deviceId=14e285ba-03f0-43bc-82c2-2f2bcf40fa67"
+              theme=""
+            /></center>
               </div>
             </div>
           </div>
@@ -197,11 +216,13 @@ const toggle = (props) => {
             </div>
             <div class="blog-body">
               <div class="box-content">
-                <h3 class="post-title">Spring Boot🔥 Do i need to study in 2022 to get a Job?🤔</h3>
-
-                <p>
-                Spring Boot is an opinionated addition to the Spring platform, focused on convention over configuration — highly useful for getting started with minimum effort and creating standalone, production-grade applications.
-                </p>
+                <h3 class="">Spring Boot🔥 Do i need to study in 2022?🤔</h3>
+               <center> <Button
+              text="Read More"
+              newTab={true}
+              href="https://alanbinu.hashnode.dev/spring-boot-do-i-need-to-study-in-2022-to-get-a-job"
+              theme=""
+            /></center>
               </div>
             </div>
           </div>
@@ -214,11 +235,13 @@ const toggle = (props) => {
             </div>
             <div class="blog-body">
               <div class="box-content">
-                <h3 class="post-title">How To Use GitHub – Developers Collaboration Using GitHub</h3>
-
-                <p>
-                GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials like repositories, branches, commits, and Pull Requests
-                </p>
+               <h3 class="">Use GitHub–Collaboration Using GitHub</h3>
+               <center>  <Button
+              text="Read More"
+              newTab={true}
+              href="https://alanbinu.hashnode.dev/how-to-use-github-developers-collaboration-using-github"
+              theme=""
+            /></center>
               </div>
             </div>
           </div>
@@ -231,11 +254,14 @@ const toggle = (props) => {
             </div>
             <div class="blog-body">
               <div class="box-content">
-                <h3 class="post-title">I Love My Java💓</h3>
-
-                <p>
-                Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development.
-                </p>
+               
+<center> <h3 class="">I Love My Java💓</h3>
+                <Button
+              text="Read More"
+              newTab={true}
+              href="https://alanbinu.hashnode.dev/i-love-my-java"
+              theme=""
+            /></center>
               </div>
             </div>
           </div>

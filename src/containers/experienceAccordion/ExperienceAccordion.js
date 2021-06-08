@@ -41,7 +41,7 @@ class ExperienceAccordion extends Component {
                     <i>Full Time</i><br /><br />
                     Deleaing with Engineering team as a Front-end and as a
                     Back-end developer<br /> uisng
-                    ReactJs, AngulatJs and SpringBoot
+                    ReactJs and SpringBoot
                     <br />
                     <br />
                     <p>
@@ -109,7 +109,7 @@ class ExperienceAccordion extends Component {
                     <p>Indel System is a small software based company founded in 1992.<br />This is a private company consist of 14 employees</p>
                     <p>
                       I worked as a Web Developer in Indel Systems<br/>
-                      The main technologies that i used over ther are JSP, HTML, CSS, JQuery, PHP etc..<br />
+                      The main technologies that i used over ther are JSP, HTML, CSS, JQuery, <br />PHP etc..
                     </p>
                   </div>
                 </div>
@@ -135,7 +135,7 @@ class ExperienceAccordion extends Component {
                       
                     </h3>
                     
-                    <p>Santhisoft is a software product development company in Kerala, India, incorporated <br />in 2005 and is managed by CMI congregation.</p>
+                    <p>Santhisoft is a software product development company in Kerala, India <br />incorporated in 2005 and is managed by CMI congregation.</p>
                     <p>
                       I worked as a Java Software Developer in SanthiSoft as an
                       Intern as a part <br />of my final
@@ -152,28 +152,27 @@ class ExperienceAccordion extends Component {
 
                   <div class="timeline-header">
                     <h3>
-                      <i>Web Tech Solutions</i>
+                      <i class="i1"><b>Web Tech Solutions</b></i>
                     </h3>
-                    <i>August 2018 - October 2019</i>
+                    <i class="i1">June 2017 - May 2019</i>
                     <br />
-                    <i>CEO & Founder</i>
+                    <i class="i1"><b>CEO & Founder</b></i>
                   </div>
 
                   <div class="timeline-content">
                    
                     <h3>
-                      <i>Web Developer</i>
+                      <i class="i1"><b>Software Developer</b></i>
                       
                     </h3>
                     
                    
 
-                    <p>
-                      Works as a freeLancer specialized in Web Development.
-                      Mainly deals <br />
-                      with creating, hosting and
-                      <br /> maintaining the websites with online database
-                      access.
+                    <p class="i1">
+                      Works as a freeLancer specialized in Web and Software Development<br />
+                      Mainly deals with creating, hosting and
+                       maintaining the websites and <br />utility softwares with online database access.<br />
+                       We are also bulding Desktop Computer as per client requirement as well.
                     </p>
                   </div>
                 </div>
@@ -186,6 +185,52 @@ class ExperienceAccordion extends Component {
               <br />
               <div class="col-twelve"></div>
               <div class="timeline-wrap">
+              <div class="timeline-block">
+                  <div class="timeline-ico">
+                  <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+                  </div>
+
+                  <div class="timeline-header">
+                    <h3>
+                      <i>Participants</i>
+                    </h3>
+                    <i>June 2021</i>
+                    <br />
+                    
+                  </div>
+
+                  <div class="timeline-content">
+                    <h3>
+                      <i>Google Developer Student Clubs</i>
+                    </h3>
+                    Successfully Participated in Google Developer Student Clubs 
+                    <br />
+                    <br />
+                  </div>
+                </div>
+                <div class="timeline-block">
+                  <div class="timeline-ico">
+                  <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+                  </div>
+
+                  <div class="timeline-header">
+                    <h3>
+                      <i>Code Contributor</i>
+                    </h3>
+                    <i>May 2021</i>
+                    <br />
+                    
+                  </div>
+
+                  <div class="timeline-content">
+                    <h3>
+                      <i>Leet Code</i>
+                    </h3>
+                    Contribute codes for some problems
+                    <br />
+                    <br />
+                  </div>
+                </div>
               <div class="timeline-block">
                   <div class="timeline-ico">
                   <i class="fa fa-thumbs-up" aria-hidden="true"></i>

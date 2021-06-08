@@ -141,6 +141,10 @@
 		padding-left: 7rem;
 	}
 }
+.i1{
+	color:rgb(81, 118, 197);
+}
+
 @media only screen and (max-width:480px) {
 	  .resume-header h2 {
 		font-size: 2.2rem;

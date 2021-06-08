@@ -39,12 +39,7 @@ class Education extends Component {
                   Education<br />
                 </h1>
                 
-              <Fade bottom duration={2000} distance="40px">My HackerRank Profile
-                <a href="https://www.hackerrank.com/alanbinu5" target="_blank"><img
-                  className="organizations-imgnewnew"
-                  src={hr}
-                  alt="aaaaaa"
-                /></a>
+              <Fade bottom duration={2000} distance="40px">
                 My LeetCode Profile
                 <a href="https://leetcode.com/alanbinu5/" target="_blank"><img
                   className="organizations-imgnewnew"

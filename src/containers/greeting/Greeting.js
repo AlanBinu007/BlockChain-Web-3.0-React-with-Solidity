@@ -34,13 +34,13 @@ export default function Greeting(props) {
                 <span style={{ color: theme.accentColor }}>
                   {greeting.full_name}.{" "}
                 </span><br />
-                CEO & Founder of Web Tech Solutions
+               <i class="i1"> <b>CEO & Founder of Web Tech Solutions</b></i>
               </p>
               <p
                 className="greeting-text-p subTitle"
                 style={{ color: theme.secondaryText }}
               >
-                I am a Full Stack Engineer 
+                Full Stack Engineer at Infosys
               </p>
               
               <SocialMedia />
