@@ -40,7 +40,7 @@ export default function Greeting(props) {
                 className="greeting-text-p subTitle"
                 style={{ color: theme.secondaryText }}
               >
-                Full Stack Engineer at Infosys
+                Full Stack Engineer
               </p>
               
               <SocialMedia />

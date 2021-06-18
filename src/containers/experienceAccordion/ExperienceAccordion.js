@@ -96,20 +96,20 @@ class ExperienceAccordion extends Component {
                     </h3>
                     <i>April 2020 - July 2020</i>
                     <br />
-                    <i>Intership</i>
+                    <i>Full Time</i>
                   </div>
 
                   <div class="timeline-content">
                     
                     <h3>
-                      <i>Junior Web Developer</i>
+                      <i>Full Stack Web Developer</i>
                       
                     </h3>
                     
                     <p>Indel System is a small software based company founded in 1992.<br />This is a private company consist of 14 employees</p>
                     <p>
                       I worked as a Web Developer in Indel Systems<br/>
-                      The main technologies that i used over ther are JSP, HTML, CSS, JQuery, <br />PHP etc..
+                      The main technologies that i used over ther are Springboot, Spring, RESTful API, Microservices,JSP, HTML, CSS, JQuery, <br />PHP etc..
                     </p>
                   </div>
                 </div>
@@ -154,7 +154,7 @@ class ExperienceAccordion extends Component {
                     <h3>
                       <i class="i1"><b>Web Tech Solutions</b></i>
                     </h3>
-                    <i class="i1">June 2017 - May 2019</i>
+                    <i>June 2017 - Feb 2020</i>
                     <br />
                     <i class="i1"><b>CEO & Founder</b></i>
                   </div>
@@ -162,13 +162,13 @@ class ExperienceAccordion extends Component {
                   <div class="timeline-content">
                    
                     <h3>
-                      <i class="i1"><b>Software Developer</b></i>
+                      <i class="i1"><b>Software and Web Developer</b></i>
                       
                     </h3>
                     
                    
 
-                    <p class="i1">
+                    <p>
                       Works as a freeLancer specialized in Web and Software Development<br />
                       Mainly deals with creating, hosting and
                        maintaining the websites and <br />utility softwares with online database access.<br />
