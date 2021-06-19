@@ -547,6 +547,44 @@ const projects = {
   data: [
     {
       id: "0",
+      name: "Live Interview Video Conference Application with Facecam and Mic",
+      url: "https://github.com/AlanBinu007/Online-Live-Video-Chat-Application-for-Interview-purposes",
+      live: "https://alanbinu-video-conference.web.app/",
+      tech:"Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript, NodeJs, ExpressJs and SASS",
+      description: "A clean and full functional live video conference app for one to one interview.It have live chat, Notes and Live Editor facility",
+      languages: [
+        {
+          name: "ReactJS",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+        {
+          name: "CSS",
+          iconifyClass: "logos-css-3",
+        },
+        {
+          name: "HTML",
+          iconifyClass: "logos-html-5",
+        },
+        {
+          name: "SASS",
+          iconifyClass: "logos-sass",
+        },
+        {
+          name: "NODEJS",
+          iconifyClass: "logos-nodejs",
+        },
+        {
+          name: "EXPRESSJS",
+          iconifyClass: "logos-express",
+        },
+      ],
+    },
+    {
+      id: "0",
       name: "Netflix Clone",
       url: "https://github.com/AlanBinu007/netflix_clone",
       live: "https://alanbinu-netflix.web.app/",
