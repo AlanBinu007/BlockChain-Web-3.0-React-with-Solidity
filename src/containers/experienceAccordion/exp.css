@@ -144,6 +144,31 @@
 .i1{
 	color:rgb(81, 118, 197);
 }
+.resume-title {
+	line-height: 18px;
+	font-size: 0.9em;
+	background: orange;
+	padding: 8px 15px;
+	display: inline-block;
+	font-weight: 600;
+	color: #000;
+	margin-bottom: 10px;
+	margin-top: -2px;
+  }
+
+  .resume-title1 {
+	line-height: 18px;
+	font-size: 0.9em;
+	background: orange;
+	padding: 8px 15px;
+	display: inline-block;
+	font-weight: 600;
+	color: #000;
+	margin-bottom: 10px;
+	margin-top: -2px;
+  }
+
+
 
 @media only screen and (max-width:480px) {
 	  .resume-header h2 {

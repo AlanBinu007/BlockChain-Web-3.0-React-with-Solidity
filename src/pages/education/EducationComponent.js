@@ -17,6 +17,7 @@ import g from '../../images/g.png';
 import hr from '../../images/hr.png';
 
 import { OverlayTrigger, Tooltip } from "react-bootstrap";
+import { orangeTheme } from "../../theme";
 
 class Education extends Component {
   render() {
@@ -35,7 +36,7 @@ class Education extends Component {
                 <EducationImg theme={theme} />
               </div>
               <div className="heading-text-div">
-                <h1 className="heading-text" style={{ color: theme.text }}>
+                <h1 className="heading-text">
                   Education<br />
                 </h1>
                 

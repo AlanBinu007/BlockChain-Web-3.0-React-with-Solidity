@@ -37,9 +37,9 @@ const toggle = (props) => {
             <BlogsImg theme={theme} />
           </div>
           <div className="blog-heading-text-div">
-            <h1 className="blog-heading-text" style={{ color: theme.text }}>
-              {blogSection["title"]}
-            </h1>
+            <h2 className="blog-heading-text" style={{ color: theme.text }}>
+              My Blogs and Open Source Contributions
+            </h2>
             <p
               className="blog-header-detail-text subTitle"
               style={{ color: theme.secondaryText }}

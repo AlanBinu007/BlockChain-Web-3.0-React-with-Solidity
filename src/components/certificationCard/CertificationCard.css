@@ -1,19 +1,101 @@
+
+@media (max-width: 768px) {
+  .certs-body-div {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+  .certs-header {
+    font-size: 30px;
+  }
+}
+.certs-header {
+  font-size: 40px;
+  line-height: 1.1;
+  font-family: Google Sans Regular;
+  text-align: center;
+}
+.certs-body-div {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+@media (max-width: 1380px) {
+  .certs-header {
+    font-size: 35px;
+  }
+}
+@media (max-width: 768px) {
+  .certs-body-div {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+  .certs-header {
+    font-size: 30px;
+  }
+}
+@media (max-width: 768px) {
+  .certs-body-div { flex-direction: column; }
+  .certs-header { font-size: 30px; }
+  }
+.logo_img {
+  margin: 3px;
+  width: auto;
+  height: 100px;
+}
 .cert-card {
-  width: 30%;
+  width: 50%;
   display: inline-block;
+  -webkit-justify-content: center;
   justify-content: center;
+  -webkit-align-items: center;
   align-items: center;
   text-align: center;
-  border: 1px solid #d9dbdf;
+  border: 1px solid #000;
   border-radius: 5px;
-  box-shadow: 5px 5px 5px #d9dbdf;
+  box-shadow: 5px 5px 5px #000;
   margin-bottom: 30px;
-  flex: 0 0 30%;
+  -webkit-flex: 0 0 25%;
+  flex: 0 0 25%;
+}
+.cert-header {
+  margin: 0;
+  border-radius: 5px 5px 0 0;
+}
+.logo_img {
+  margin: 3px;
+  width: auto;
+  height: 100px;
+}
+.cert-body {
+  margin: 0;
+}
+.cert-body-title {
+  font-size: 20px;
+}
+.cert-body-subtitle,
+.cert-body-title {
+  font-family: Google Sans Regular;
+  margin: 10px;
+}
+.cert-body-subtitle {
+  font-size: 18px;
+  color: grey;
+}
+.certs-body-div {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
 }
 
-.cert-header {
-  margin: 0px;
-  border-radius: 5px 5px 0px 0px;
+.main {
+  width: 90%;
+  margin: 4rem auto 0;
 }
 
 .button1 {

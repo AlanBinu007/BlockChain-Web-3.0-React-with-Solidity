@@ -68,12 +68,7 @@ export default function Greeting(props) {
             </div>
                        
               <div className="resume-btn-div">
-                  {/* <Button
-                    text="See My Resume"
-                    newTab={true}
-                    href={greeting.resumeLink}
-                    theme={theme}
-                  />    */}
+
                </div>
             </div>
           </div>
