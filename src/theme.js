@@ -133,7 +133,7 @@ const lightTheme = {
 
 const darkTheme = {
   name: "dark",
-  body: "#1D1D1D",
+  body: "#000000",
   text: "#FFFFFF",
   dark: "#000000",
   secondaryText: "#8D8D8D",

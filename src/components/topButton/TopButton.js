@@ -8,14 +8,14 @@ export default function TopButton({ theme }) {
   }
 
   function scrollFunction() {
-    //if (
-     // document.body.scrollTop > 10 ||
-     // document.documentElement.scrollTop > 10
-    //) {
-     // document.getElementById("topButton").style.visibility = "visible";
-    // } else {
-    //   document.getElementById("topButton").style.visibility = "hidden";
-    // }
+    if (
+     document.body.scrollTop > 10 ||
+     document.documentElement.scrollTop > 10
+    ) {
+     document.getElementById("topButton").style.visibility = "visible";
+    } else {
+      document.getElementById("topButton").style.visibility = "hidden";
+    }
   }
 
   window.onscroll = function () {

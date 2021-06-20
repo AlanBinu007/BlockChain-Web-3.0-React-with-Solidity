@@ -72,7 +72,7 @@ function Projects(props) {
       <br />
       <br />
       <Footer theme={props.theme} onToggle={props.onToggle} />
-   
+      <TopButton theme={props.theme} />
     </div>
   );
 }
