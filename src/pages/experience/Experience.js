@@ -23,7 +23,7 @@ class Experience extends Component {
               <div className="experience-heading-text-div">
                 <h1
                   className="experience-heading-text"
-                  style={{ color: theme.text }}
+                 
                 >
                   Experience
                 </h1>
@@ -35,7 +35,7 @@ class Experience extends Component {
                 </p>
                 <h3
                   className="experience-heading-sub-text"
-                  style={{ color: theme.text }}
+                  
                 >
                   My Work and Volunteership
                 </h3><br />

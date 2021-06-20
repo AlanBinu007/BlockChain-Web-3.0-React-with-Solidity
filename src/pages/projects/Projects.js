@@ -33,7 +33,7 @@ function Projects(props) {
             <div className="projects-heading-text-div">
               <h1
                 className="projects-heading-text"
-                style={{ color: theme.text }}
+               
               >
                 {projectsHeader.title}
               </h1>

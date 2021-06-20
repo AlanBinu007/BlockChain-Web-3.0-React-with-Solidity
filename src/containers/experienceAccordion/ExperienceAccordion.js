@@ -121,7 +121,7 @@ class ExperienceAccordion extends Component {
                     I worked as a Web Developer in Indel Systems
                     <br />
                     The main technologies that i used over ther are Springboot,
-                    Spring, RESTful API, Microservices,JSP, HTML, CSS, JQuery and a little bit of ReactJs
+                    Spring, <br/>RESTful API, Microservices,JSP, HTML, CSS, JQuery and a little bit <br/>of ReactJs
                     
                     PHP etc..
                   </p>
@@ -220,13 +220,8 @@ class ExperienceAccordion extends Component {
                   <i>Co-Founder</i>
                   <br />
                   <br />
-                  Worked with Selenium and Java to automate my Work Also i
-                  created a new <br /> way of automation that successfully
-                  reduce the work effort by half
-                  <br />
-                  <br />
-                  Client : <i>FORD</i> (Ford Motor Company Automaker company)
-                  <br />
+                  All In One, We provide the best experience of our industry<br/>20+ Happy Clents
+                  
                 </div>
               </div>
             </div>
@@ -235,7 +230,7 @@ class ExperienceAccordion extends Component {
           <div class="container">
             <center>
               <h2>
-                <i>Volunteer Experience</i>
+                <i class="vv">Volunteer Experience</i>
               </h2>
             </center>
             <br />
@@ -248,7 +243,7 @@ class ExperienceAccordion extends Component {
 
                 <div class="timeline-header">
                   <h3>
-                    <i clas="resume-title1">Participants</i>
+                    <i clas="vv">Participants</i>
                   </h3>
                   <i>June 2021</i>
                   <br />
