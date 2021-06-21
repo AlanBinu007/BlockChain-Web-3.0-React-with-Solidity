@@ -14,10 +14,8 @@ import d from '../../images/d.png';
 import e from '../../images/e.png';
 import f from '../../images/f.png';
 import g from '../../images/g.png';
-import hr from '../../images/hr.png';
 
-import { OverlayTrigger, Tooltip } from "react-bootstrap";
-import { orangeTheme } from "../../theme";
+
 
 class Education extends Component {
   render() {

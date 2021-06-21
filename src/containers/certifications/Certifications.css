@@ -3,6 +3,7 @@
   line-height: 1.1;
   font-family: "Google Sans Regular";
   text-align: center;
+  color: orange;
 }
 
 .certs-body-div {
@@ -10,6 +11,7 @@
   justify-content: space-between;
   flex-wrap: wrap;
 }
+.
 
 @media (max-width: 1380px) {
   .certs-header {
@@ -24,5 +26,6 @@
 
   .certs-header {
     font-size: 30px;
+    
   }
 }
