@@ -25,35 +25,19 @@ export default function Greeting(props) {
         <div className="greeting-main">
           <div className="greeting-text-div">
             <div>
-              <h1 className="greeting-text">{greeting.title}</h1>
-              <p
-                className="greeting-text-p subTitle"
-                style={{ color: theme.secondaryText }}
-              ><br />
-                <span>I'm </span>
-                <span style={{ color: theme.accentColor }}>
-                  {greeting.full_name}.{" "}
-                </span><br />
-               <i class="i1"> <b>CEO & Founder of Web Tech Solutions</b></i>
-              </p>
-              <p
-                className="greeting-text-p subTitle"
-                style={{ color: theme.secondaryText }}
-              >
-                Full Stack Engineer
-              </p>
-              
+              <h1>Hello World </h1>
+              <p className="greeting-text-p">I am Alan Binu</p>
+              <h4 class="i1">
+                  {" "}
+                  <b>CEO & Founder of Web Tech Solutions</b>
+                </h4>
+              <p className="greeting-text-p">Full Stack Engineer</p>
               <SocialMedia />
               <div className="portfolio-repo-btn-div">
-              <a href="https://web-tech-solutions.web.app/" target="_blank">
+                <a href="https://web-tech-solutions.web.app/" target="_blank">
+                  <button className="button1">Web Tech Solutions</button>
+                </a>
                 <button
-                 className="button1"
-                >
-                  Web Tech Solutions
-                </button>
-                  </a>
-                  <button
-                  
                   {...styles}
                   className="button"
                   onClick={() => {
@@ -61,18 +45,14 @@ export default function Greeting(props) {
                   }}
                 >
                   Hire Me
-                </button>  
-                  
-                
+                </button>
+              </div>
 
-            </div>
-                       
-              <div className="resume-btn-div">
-
-               </div>
+              <div className="resume-btn-div"></div>
             </div>
           </div>
           <div className="greeting-image-div">
+            
             <FeelingProud theme={theme} />
           </div>
         </div>
