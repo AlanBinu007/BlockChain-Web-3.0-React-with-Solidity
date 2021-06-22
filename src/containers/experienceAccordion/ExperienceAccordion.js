@@ -178,9 +178,9 @@ class ExperienceAccordion extends Component {
 
                 <div class="timeline-header">
                   <h3>
-                    <h5 class="resume-title">
-                      <b>Web Tech Solutions</b>
-                    </h5>
+                  <h3>
+                    <h5 class="resume-title">Web Tech Soltions</h5>
+                  </h3>
                   </h3>
                   <i>June 2017 - Feb 2020</i>
                   <br />
@@ -191,10 +191,9 @@ class ExperienceAccordion extends Component {
 
                 <div class="timeline-content">
                   <h3>
-                    <h5 class="resume-title">
-                      <b>Software and Web Developer</b>
-                     
-                    </h5><br/><i>CEO & Founder</i>
+                  <h3>
+                    <h5 class="resume-title">Software and Web Developer</h5>
+                  </h3><i>CEO & Founder</i>
                   </h3> 
 
                   <p>
@@ -213,14 +212,14 @@ class ExperienceAccordion extends Component {
               <div class="timeline-block">
                 <div class="timeline-content">
                   <h3>
-                    <h5 class="resume-title">Automation Tester</h5>
+                    <h5 class="resume-title">Software Developer</h5>
                   </h3>
                   <i>Januvary 2017 - July 2020</i>
                   <br />
                   <i>Co-Founder</i>
                   <br />
                   <br />
-                  All In One, We provide the best experience of our industry<br/>20+ Happy Clents
+                  All In One, We provide the best experience to our industry<br/>20+ Happy Clents
                   
                 </div>
               </div>

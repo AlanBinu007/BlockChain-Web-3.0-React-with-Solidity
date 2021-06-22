@@ -81,17 +81,6 @@ class CertificationCard extends Component {
           <div class="post-masonry col-md-6 col-sm-6">
             <div class="blog-thumb">
               <a
-                href="https://www.coursera.org/account/accomplishments/specialization/L6DXMQJQ4EQX"
-                target="_blank"
-              >
-                {" "}
-                <img src={e} alt="" />
-              </a>
-            </div>
-          </div>
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
                 href="https://www.coursera.org/account/accomplishments/professional-cert/U3SMLX6RNRH7"
                 target="_blank"
               >
@@ -100,6 +89,18 @@ class CertificationCard extends Component {
               </a>
             </div>
           </div>
+          <div class="post-masonry col-md-6 col-sm-6">
+            <div class="blog-thumb">
+              <a
+                href="https://www.coursera.org/account/accomplishments/specialization/L6DXMQJQ4EQX"
+                target="_blank"
+              >
+                {" "}
+                <img src={e} alt="" />
+              </a>
+            </div>
+          </div>
+
           <div class="post-masonry col-md-6 col-sm-6">
             <div class="blog-thumb">
               <a
@@ -146,17 +147,7 @@ class CertificationCard extends Component {
               </a>
             </div>
           </div>
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/specialization/4QNKS5X2UL9K"
-                target="_blank"
-              >
-                {" "}
-                <img src={j} alt="" />
-              </a>
-            </div>
-          </div>
+          
           
           <div class="post-masonry col-md-6">
             <div class="blog-thumb">
@@ -172,11 +163,11 @@ class CertificationCard extends Component {
           <div class="post-masonry col-md-6 col-sm-6">
             <div class="blog-thumb">
               <a
-                href="https://www.coursera.org/account/accomplishments/professional-cert/HHFRJPQMU2A3"
+                href="https://www.coursera.org/account/accomplishments/specialization/4QNKS5X2UL9K"
                 target="_blank"
               >
                 {" "}
-                <img src={m} alt="" />
+                <img src={j} alt="" />
               </a>
             </div>
           </div>
@@ -191,6 +182,18 @@ class CertificationCard extends Component {
               </a>
             </div>
           </div>
+          <div class="post-masonry col-md-6 col-sm-6">
+            <div class="blog-thumb">
+              <a
+                href="https://www.coursera.org/account/accomplishments/professional-cert/HHFRJPQMU2A3"
+                target="_blank"
+              >
+                {" "}
+                <img src={m} alt="" />
+              </a>
+            </div>
+          </div>
+         
           <div class="post-masonry col-md-6 col-sm-6">
             <div class="blog-thumb">
               <a
@@ -216,17 +219,6 @@ class CertificationCard extends Component {
           <div class="post-masonry col-md-6 col-sm-6">
             <div class="blog-thumb">
               <a
-                href="hhttps://www.coursera.org/account/accomplishments/specialization/ZU7B8S7WZT8U"
-                target="_blank"
-              >
-                {" "}
-                <img src={q} alt="" />
-              </a>
-            </div>
-          </div>
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
                 href="https://www.coursera.org/account/accomplishments/specialization/YV6Z8FV8NPAC"
                 target="_blank"
               >
@@ -235,6 +227,18 @@ class CertificationCard extends Component {
               </a>
             </div>
           </div>
+          <div class="post-masonry col-md-6 col-sm-6">
+            <div class="blog-thumb">
+              <a
+                href="hhttps://www.coursera.org/account/accomplishments/specialization/ZU7B8S7WZT8U"
+                target="_blank"
+              >
+                {" "}
+                <img src={q} alt="" />
+              </a>
+            </div>
+          </div>
+          
           <div class="post-masonry col-md-6 col-sm-6">
             <div class="blog-thumb">
               <a
@@ -257,17 +261,7 @@ class CertificationCard extends Component {
               </a>
             </div>
           </div>
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/specialization/GXXUYCBWZF4Z"
-                target="_blank"
-              >
-                {" "}
-                <img src={f} alt="" />
-              </a>
-            </div>
-          </div>
+
         </div>
       </>
     );

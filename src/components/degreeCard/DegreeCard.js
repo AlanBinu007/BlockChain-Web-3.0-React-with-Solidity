@@ -37,13 +37,12 @@ class DegreeCard extends Component {
                 style={{ backgroundColor: theme.headerColor }}
               >
                 <div className="body-header-title">
-                  <h2 className="card-title" style={{ color: theme.text }}>
+                  <h3 className="card-title" style={{ color: theme.text }}>
                     {degree.title1}
-                  </h2>
-                  <h3 className="card-subtitle" style={{ color: theme.text }}>
+                  <br/>
                     {degree.subtitle1}
                   </h3>
-                  <h3 className="card-subtitle" style={{ color: theme.text }}>
+                  <h3 className="card-subtitle1">
                     Canadian Equivalency : MASTER'S DEGREE (Verifyed By{" "}
 
                       WES
@@ -357,11 +356,10 @@ Decision Tree
                 <div className="body-header-title">
                   <h2 className="card-title" style={{ color: theme.text }}>
                     {degree.title}
-                  </h2>
-                  <h3 className="card-subtitle" style={{ color: theme.text }}>
+                  <br/>
                     {degree.subtitle}
-                  </h3>
-                  <h3 className="card-subtitle" style={{ color: theme.text }}>
+                  </h2>
+                  <h3 className="card-subtitle1">
                     Canadian Equivalency : 4 YEAR BACHELOR'S DEGREE
                     &nbsp;(Verifyed By{" "}
 

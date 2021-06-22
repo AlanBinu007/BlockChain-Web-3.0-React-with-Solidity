@@ -13,7 +13,7 @@ class Certifications extends Component {
         <div className="certs-header-div">
           <Fade bottom duration={2000} distance="20px">
             <h1 className="certs-header">
-              Other Professional Certificates
+              My Valuable Professional Certificates
             </h1>
           </Fade>
           <br/>
@@ -27,7 +27,7 @@ class Certifications extends Component {
         </div><center><Button class="button1"
               text="View More"
               newTab={true}
-              href="https://alanbinu.hashnode.dev/how-to-get-started-with-artificial-intelligence-ckp754vv90fv6mds1fgxtg4dl"
+              href="https://drive.google.com/drive/u/0/folders/1H-tOOipJ0lx7B1FE3tJh7zRcEOO4IhJE"
               theme=""
             /></center>
       </div>

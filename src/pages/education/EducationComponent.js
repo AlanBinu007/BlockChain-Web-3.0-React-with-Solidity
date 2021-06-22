@@ -14,8 +14,17 @@ import d from '../../images/d.png';
 import e from '../../images/e.png';
 import f from '../../images/f.png';
 import g from '../../images/g.png';
-
-
+import m1 from '../../images/m1.png';
+import m2 from '../../images/m2.png';
+import m3 from '../../images/m3.png';
+import m4 from '../../images/m4.png';
+import m5 from '../../images/m5.png';
+import m6 from '../../images/m6.png';
+import m7 from '../../images/m7.png';
+import m8 from '../../images/m8.png';
+import m9 from '../../images/m9.png';
+import m10 from '../../images/m10.png';
+import m11 from '../../images/m11.png';
 
 class Education extends Component {
   render() {
@@ -62,8 +71,8 @@ class Education extends Component {
              </h3> </div>
             </div>
           </Fade>
-          <center><h3 className="heading-sub-text" style={{ color: theme.text }}>
-                  Some Of My Latest Verified Digital Archivements<br /><br />
+          <center><h3 className="heading-sub-text">
+                  Verified Digital Archivements<br /><br />
                 </h3></center>
           <center>
             <li className="organizations-inline">
@@ -124,6 +133,127 @@ class Education extends Component {
             </center>
             <center><a
                   href="https://www.credly.com/users/alan-binu/badges"
+                  target="_blank"
+                >
+                  <button className="button">
+                    View More
+                  </button>
+                </a></center>
+                <center><h3 className="heading-sub-text">
+                Verified Digital Badges<br /><br />
+                </h3></center>
+                <center>
+                <li className="organizations-inline">
+                  <Fade bottom duration={2000} distance="40px">
+                <img
+                  className="organizations-imgnew"
+                  src={m4}
+                  alt="aaaaaa"
+                />
+                </Fade>
+                </li>
+                <li className="organizations-inline">
+                  <Fade bottom duration={2000} distance="40px">
+                <img
+                  className="organizations-imgnew"
+                  src={m5}
+                  alt="aaaaaa"
+                />
+                </Fade>
+                </li>
+                <li className="organizations-inline">
+                  <Fade bottom duration={2000} distance="40px">
+                <img
+                  className="organizations-imgnew"
+                  src={m1}
+                  alt="aaaaaa"
+                />
+                </Fade>
+                </li>
+                <li className="organizations-inline">
+                  <Fade bottom duration={2000} distance="40px">
+                <img
+                  className="organizations-imgnew"
+                  src={m2}
+                  alt="aaaaaa"
+                />
+                </Fade>
+                </li>
+                <li className="organizations-inline">
+                  <Fade bottom duration={2000} distance="40px">
+                <img
+                  className="organizations-imgnew"
+                  src={m3}
+                  alt="aaaaaa"
+                />
+                </Fade>
+                </li>
+                <li className="organizations-inline">
+                  <Fade bottom duration={2000} distance="40px">
+                <img
+                  className="organizations-imgnew"
+                  src={m5}
+                  alt="aaaaaa"
+                />
+                </Fade>
+                </li>
+                <li className="organizations-inline">
+                  <Fade bottom duration={2000} distance="40px">
+                <img
+                  className="organizations-imgnew"
+                  src={m6}
+                  alt="aaaaaa"
+                />
+                </Fade>
+                </li>
+                <li className="organizations-inline">
+                  <Fade bottom duration={2000} distance="40px">
+                <img
+                  className="organizations-imgnew"
+                  src={m7}
+                  alt="aaaaaa"
+                />
+                </Fade>
+                </li>
+                <li className="organizations-inline">
+                  <Fade bottom duration={2000} distance="40px">
+                <img
+                  className="organizations-imgnew"
+                  src={m8}
+                  alt="aaaaaa"
+                />
+                </Fade>
+                </li>
+                <li className="organizations-inline">
+                  <Fade bottom duration={2000} distance="40px">
+                <img
+                  className="organizations-imgnew"
+                  src={m9}
+                  alt="aaaaaa"
+                />
+                </Fade>
+                </li>
+                <li className="organizations-inline">
+                  <Fade bottom duration={2000} distance="40px">
+                <img
+                  className="organizations-imgnew"
+                  src={m10}
+                  alt="aaaaaa"
+                />
+                </Fade>
+                </li>
+                <li className="organizations-inline">
+                  <Fade bottom duration={2000} distance="40px">
+                <img
+                  className="organizations-imgnew"
+                  src={m11}
+                  alt="aaaaaa"
+                />
+                </Fade>
+                </li>
+                </center>
+                <center><a
+                  href="https://docs.microsoft.com/en-us/users/alanbinu-2255/"
                   target="_blank"
                 >
                   <button className="button">

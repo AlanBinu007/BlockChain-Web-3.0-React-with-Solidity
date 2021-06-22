@@ -19,6 +19,14 @@
   margin-bottom: 5px;
 }
 
+.card-subtitle1 {
+  font-family: "Google Sans Medium";
+  font-size: 18px;
+ color: orange;
+  margin-top: 7px;
+  margin-bottom: 5px;
+}
+
 .card-img {
   width: 200px;
   height: auto;
