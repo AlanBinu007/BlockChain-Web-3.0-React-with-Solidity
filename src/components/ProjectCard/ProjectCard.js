@@ -28,6 +28,7 @@ export default function ProjectCard({ repo, theme }) {
   if(repo.live != ""){
     return (
       <div>
+                  <center><h2>My Latest Works</h2></center>
         <Fade bottom duration={2000} distance="40px">
           <div
             {...styles}
@@ -90,6 +91,7 @@ export default function ProjectCard({ repo, theme }) {
     return (
       <div>
         <Fade bottom duration={2000} distance="40px">
+
           <div
             {...styles}
             key={repo.id}

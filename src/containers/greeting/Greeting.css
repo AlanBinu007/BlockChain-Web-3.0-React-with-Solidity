@@ -46,6 +46,20 @@
   line-height: 40px;
   margin-right: 40px;
   font-family: "Google Sans Medium";
+  color: greenyellow;
+}
+.greeting-text-p1 {
+  font-size: 30px;
+  line-height: 40px;
+  margin-right: 40px;
+  font-family: "Google Sans Medium";
+  color: blueviolet;
+}
+.greeting-text-p3 {
+  font-size: 30px;
+  line-height: 40px;
+  margin-right: 40px;
+  font-family: "Google Sans Medium";
 }
 .border{
   border: 1px solid greenyellow;
@@ -54,6 +68,21 @@
   border-radius: 10px;
   text-align: center;
   
+}
+
+.h11{
+  color: orange;
+  font-size: 75px;
+}
+
+.h12{
+  color: greenyellow;
+
+}
+
+.h12{
+  color:red ;
+
 }
 
 .greeting-image-div > * {

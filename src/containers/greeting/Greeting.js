@@ -25,13 +25,14 @@ export default function Greeting(props) {
         <div className="greeting-main">
           <div className="greeting-text-div">
             <div>
-              <h1>Hello World </h1>
+              <h1 class="h11">Hello World </h1>
               <p className="greeting-text-p">I am Alan Binu</p>
+              <p className="greeting-text-p3">Professional in Full Stack Engineer</p>
               <h4 class="i1">
                   {" "}
-                  <b>CEO & Founder of Web Tech Solutions</b>
+                  <b className="greeting-text-p1">CEO & Founder of Web Tech Solutions</b>
                 </h4>
-              <p className="greeting-text-p">Full Stack Engineer</p>
+              
               <SocialMedia />
               <div className="portfolio-repo-btn-div">
                 <a href="https://web-tech-solutions.web.app/" target="_blank">
