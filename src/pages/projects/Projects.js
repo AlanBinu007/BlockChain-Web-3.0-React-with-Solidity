@@ -55,6 +55,7 @@ function Projects(props) {
         </Fade>
       </div>
       <div className="repo-cards-div-main">
+      <center><h2>My Latest Works</h2></center>
         {projects.data.map((repo) => {
           return <ProjectCard repo={repo} theme={theme} />;
         })}
