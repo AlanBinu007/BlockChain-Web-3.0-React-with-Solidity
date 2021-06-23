@@ -397,7 +397,7 @@ const toggle = (props) => {
             </div>
             
           </div>
-        </div> <br/> <br/> <br/>
+        </div> <br/> 
       </section>
 
       <br />

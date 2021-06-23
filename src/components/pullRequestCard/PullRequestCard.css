@@ -37,6 +37,7 @@
   margin-left: 10px;
   font-size: 12px;
   font-family: "Google Sans Regular";
+  color: #000;
 }
 
 .pr-header {
@@ -130,6 +131,7 @@
   font-family: "Google Sans Regular";
   font-size: 12px;
   margin-top: 5px;
+  color: #000;
 }
 
 .parent-repo > a {
