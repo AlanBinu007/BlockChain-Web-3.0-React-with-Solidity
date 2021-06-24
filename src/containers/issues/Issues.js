@@ -71,7 +71,7 @@ const toggle = (props) => {
         <div class="container">
           <div class="row">
             <div class="col-lg-4">
-            <a href="single-post.html">
+            <a href="https://alanbinu.hashnode.dev/getting-started-with-competitive-programming-ckp7xf2qf0jldmds16f0e92qh" target="_blank">
               <div class="blog-item-wrapper">
                 <div class="blog-item-img">
                   
@@ -81,14 +81,14 @@ const toggle = (props) => {
                 <div class="blog-item-text">
                   <div class="date">
                   <span>
-                    10 April, 2018
+                  28 May, 2021
                     </span>
                   </div>
-                  <h3>10 Tips to Design a High-converting Landing Page</h3>
+                  <h3>Getting started with Competitive Programming</h3>
                   <div class="meta-tags">
                     <span>
                       <i class="lni-eye"></i> 346 Views
-                      <i class="lni-eye"></i> 45 Likes
+                      <i class="lni-eye"></i> 50 Likes
                     </span>
                   </div>
                 </div>
@@ -97,7 +97,7 @@ const toggle = (props) => {
             </div>
 
             <div class="col-lg-4">
-            <a href="single-post.html">
+            <a href="https://alanbinu.hashnode.dev/what-should-i-learn-aws-or-gcp-or-azure-in-2021-ckny9v9yu0dfmews1h0sl9oez" target="_blank">
               <div class="blog-item-wrapper">
                 <div class="blog-item-img">
                   
@@ -107,13 +107,13 @@ const toggle = (props) => {
                 <div class="blog-item-text">
                   <div class="date">
                   <span>
-                    10 April, 2018
+                    26 April, 2021
                     </span>
                   </div>
-                  <h3>10 Tips to Design a High-converting Landing Page</h3>
+                  <h3>What Should I learn AWS or GCP or AZURE in 2021🤔❓</h3>
                   <div class="meta-tags">
                     <span>
-                      <i class="lni-eye"></i> 346 Views
+                      <i class="lni-eye"></i> 146 Views
                       <i class="lni-eye"></i> 45 Likes
                     </span>
                   </div>
@@ -122,7 +122,7 @@ const toggle = (props) => {
               </a>
             </div>
             <div class="col-lg-4">
-            <a href="single-post.html">
+            <a href="https://alanbinu.hashnode.dev/what-next-in-tech-industries" target="_blank">
               <div class="blog-item-wrapper">
                 <div class="blog-item-img">
                   
@@ -132,14 +132,14 @@ const toggle = (props) => {
                 <div class="blog-item-text">
                   <div class="date">
                   <span>
-                    10 April, 2018
+                    26 April, 2021
                     </span>
                   </div>
-                  <h3>10 Tips to Design a High-converting Landing Page</h3>
+                  <h3>What next in tech industries🤔?</h3>
                   <div class="meta-tags">
                     <span>
-                      <i class="lni-eye"></i> 346 Views
-                      <i class="lni-eye"></i> 45 Likes
+                      <i class="lni-eye"></i> 78 Views
+                      <i class="lni-eye"></i> 46 Likes
                     </span>
                   </div>
                 </div>
@@ -154,7 +154,7 @@ const toggle = (props) => {
         <div class="container">
           <div class="row">
             <div class="col-lg-4">
-            <a href="single-post.html">
+            <a href="https://alanbinu.hashnode.dev/data-science-should-i-need-to-learn-for-coming-years" target="_blank">
               <div class="blog-item-wrapper">
                 <div class="blog-item-img">
                   
@@ -164,14 +164,14 @@ const toggle = (props) => {
                 <div class="blog-item-text">
                   <div class="date">
                   <span>
-                    10 April, 2018
+                    18 May, 2021
                     </span>
                   </div>
-                  <h3>10 Tips to Design a High-converting Landing Page</h3>
+                  <h3>Data Science🔥 Should i need to learn for coming years?🤔</h3>
                   <div class="meta-tags">
                     <span>
-                      <i class="lni-eye"></i> 346 Views
-                      <i class="lni-eye"></i> 45 Likes
+                      <i class="lni-eye"></i> 45 Views
+                      <i class="lni-eye"></i> 22 Likes
                     </span>
                   </div>
                 </div>
@@ -180,7 +180,7 @@ const toggle = (props) => {
             </div>
 
             <div class="col-lg-4">
-            <a href="single-post.html">
+            <a href="https://alanbinu.hashnode.dev/how-to-use-github-developers-collaboration-using-github" target="_blank">
               <div class="blog-item-wrapper">
                 <div class="blog-item-img">
                   
@@ -190,14 +190,14 @@ const toggle = (props) => {
                 <div class="blog-item-text">
                   <div class="date">
                   <span>
-                    10 April, 2018
+                    28 May, 2021
                     </span>
                   </div>
-                  <h3>10 Tips to Design a High-converting Landing Page</h3>
+                  <h3>How To Use GitHub – Developers Collaboration Using GitHub</h3>
                   <div class="meta-tags">
                     <span>
-                      <i class="lni-eye"></i> 346 Views
-                      <i class="lni-eye"></i> 45 Likes
+                      <i class="lni-eye"></i> 46 Views
+                      <i class="lni-eye"></i> 35 Likes
                     </span>
                   </div>
                 </div>
@@ -205,7 +205,7 @@ const toggle = (props) => {
               </a>
             </div>
             <div class="col-lg-4">
-            <a href="single-post.html">
+            <a href="https://alanbinu.hashnode.dev/spring-boot-do-i-need-to-study-in-2022-to-get-a-job" target="_blank">
               <div class="blog-item-wrapper">
                 <div class="blog-item-img">
                   
@@ -215,13 +215,13 @@ const toggle = (props) => {
                 <div class="blog-item-text">
                   <div class="date">
                   <span>
-                    10 April, 2018
+                    10 April, 2021
                     </span>
                   </div>
-                  <h3>10 Tips to Design a High-converting Landing Page</h3>
+                  <h3>Spring Boot🔥 Do i need to study in 2022 to get a Job?🤔</h3>
                   <div class="meta-tags">
                     <span>
-                      <i class="lni-eye"></i> 346 Views
+                      <i class="lni-eye"></i> 234 Views
                       <i class="lni-eye"></i> 45 Likes
                     </span>
                   </div>
@@ -237,7 +237,7 @@ const toggle = (props) => {
         <div class="container">
           <div class="row">
             <div class="col-lg-4">
-            <a href="single-post.html">
+            <a href="https://alanbinu.hashnode.dev/i-love-my-java" target="_blank">
               <div class="blog-item-wrapper">
                 <div class="blog-item-img">
                   
@@ -247,14 +247,14 @@ const toggle = (props) => {
                 <div class="blog-item-text">
                   <div class="date">
                   <span>
-                    10 April, 2018
+                    10 April, 2021
                     </span>
                   </div>
-                  <h3>10 Tips to Design a High-converting Landing Page</h3>
+                  <h3>I Love My Java💓</h3>
                   <div class="meta-tags">
                     <span>
-                      <i class="lni-eye"></i> 346 Views
-                      <i class="lni-eye"></i> 45 Likes
+                      <i class="lni-eye"></i> 105 Views
+                      <i class="lni-eye"></i> 19 Likes
                     </span>
                   </div>
                 </div>
@@ -263,7 +263,7 @@ const toggle = (props) => {
             </div>
 
             <div class="col-lg-4">
-            <a href="single-post.html">
+            <a href="https://alanbinu.hashnode.dev/how-to-get-started-with-artificial-intelligence" target="_blank">
               <div class="blog-item-wrapper">
                 <div class="blog-item-img">
                   
@@ -273,14 +273,14 @@ const toggle = (props) => {
                 <div class="blog-item-text">
                   <div class="date">
                   <span>
-                    10 April, 2018
+                    27 May, 2021
                     </span>
                   </div>
-                  <h3>10 Tips to Design a High-converting Landing Page</h3>
+                  <h3>How to get started with Artificial Intelligence</h3>
                   <div class="meta-tags">
                     <span>
-                      <i class="lni-eye"></i> 346 Views
-                      <i class="lni-eye"></i> 45 Likes
+                      <i class="lni-eye"></i> 56 Views
+                      <i class="lni-eye"></i> 23 Likes
                     </span>
                   </div>
                 </div>
@@ -288,7 +288,7 @@ const toggle = (props) => {
               </a>
             </div>
             <div class="col-lg-4">
-            <a href="single-post.html">
+            <a href="https://alanbinu.hashnode.dev/best-way-to-learn-react-from-scratch" target="_blank">
               <div class="blog-item-wrapper">
                 <div class="blog-item-img">
                   
@@ -298,14 +298,14 @@ const toggle = (props) => {
                 <div class="blog-item-text">
                   <div class="date">
                   <span>
-                    10 April, 2018
+                    21 April, 2021
                     </span>
                   </div>
-                  <h3>10 Tips to Design a High-converting Landing Page</h3>
+                  <h3>Best Way To Learn React From Scratch</h3>
                   <div class="meta-tags">
                     <span>
-                      <i class="lni-eye"></i> 346 Views
-                      <i class="lni-eye"></i> 45 Likes
+                      <i class="lni-eye"></i> 125 Views
+                      <i class="lni-eye"></i> 60 Likes
                     </span>
                   </div>
                 </div>
@@ -320,7 +320,7 @@ const toggle = (props) => {
         <div class="container">
           <div class="row">
             <div class="col-lg-4">
-            <a href="single-post.html">
+            <a href="https://alanbinu.hashnode.dev/how-to-use-linkedin-to-get-a-job-1" target="_blank">
               <div class="blog-item-wrapper">
                 <div class="blog-item-img">
                   
@@ -330,14 +330,14 @@ const toggle = (props) => {
                 <div class="blog-item-text">
                   <div class="date">
                   <span>
-                    10 April, 2018
+                    28 May, 2021
                     </span>
                   </div>
-                  <h3>10 Tips to Design a High-converting Landing Page</h3>
+                  <h3>How to Use LinkedIn to Get a Job</h3>
                   <div class="meta-tags">
                     <span>
-                      <i class="lni-eye"></i> 346 Views
-                      <i class="lni-eye"></i> 45 Likes
+                      <i class="lni-eye"></i> 146 Views
+                      <i class="lni-eye"></i> 60 Likes
                     </span>
                   </div>
                 </div>
@@ -346,7 +346,7 @@ const toggle = (props) => {
             </div>
 
             <div class="col-lg-4">
-            <a href="single-post.html">
+            <a href="https://alanbinu.hashnode.dev/best-extensions-for-vs-code-to-better-coding" target="_blank">
               <div class="blog-item-wrapper">
                 <div class="blog-item-img">
                   
@@ -356,14 +356,14 @@ const toggle = (props) => {
                 <div class="blog-item-text">
                   <div class="date">
                   <span>
-                    10 April, 2018
+                    25 April, 2021
                     </span>
                   </div>
-                  <h3>10 Tips to Design a High-converting Landing Page</h3>
+                  <h3>Best extensions for vs code to better coding</h3>
                   <div class="meta-tags">
                     <span>
-                      <i class="lni-eye"></i> 346 Views
-                      <i class="lni-eye"></i> 45 Likes
+                      <i class="lni-eye"></i> 109 Views
+                      <i class="lni-eye"></i> 38 Likes
                     </span>
                   </div>
                 </div>
@@ -371,7 +371,7 @@ const toggle = (props) => {
               </a>
             </div>
             <div class="col-lg-4">
-            <a href="single-post.html">
+            <a href="https://alanbinu.hashnode.dev/angular-vs-reactjs-vs-vue-the-real-battle" target="_blank">
               <div class="blog-item-wrapper">
                 <div class="blog-item-img">
                   
@@ -381,14 +381,14 @@ const toggle = (props) => {
                 <div class="blog-item-text">
                   <div class="date">
                   <span>
-                    10 April, 2018
+                    21 April, 2021
                     </span>
                   </div>
-                  <h3>10 Tips to Design a High-converting Landing Page</h3>
+                  <h3>Angular🏁 vs React.js🏁 vs Vue🏁 ⚔The Real Battle⚔</h3>
                   <div class="meta-tags">
                     <span>
-                      <i class="lni-eye"></i> 346 Views
-                      <i class="lni-eye"></i> 45 Likes
+                      <i class="lni-eye"></i> 125 Views
+                      <i class="lni-eye"></i> 30 Likes
                     </span>
                   </div>
                 </div>

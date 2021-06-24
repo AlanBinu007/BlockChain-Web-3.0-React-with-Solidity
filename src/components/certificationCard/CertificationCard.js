@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./CertificationCard.css";
-
+import "./blog.css";
 import Button from "../../components/button/Button";
 
 import a from "../../images/1.png";
@@ -21,8 +21,6 @@ import o from "../../images/15.png";
 import p from "../../images/16.png";
 import q from "../../images/17.png";
 import r from "../../images/18.png";
-import s from "../../images/19.png";
-import t from "../../images/20.png";
 
 class CertificationCard extends Component {
   render() {
@@ -31,238 +29,222 @@ class CertificationCard extends Component {
 
     return (
       <>
-        <div class="content-container">
-          <br />
+        <section id="blog" class="section">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-4">
+                <a
+                  href="https://www.coursera.org/account/accomplishments/professional-cert/7ALWY3F2QLQ4"
+                  target="_blank"
+                >
+                  <div class="blog-item-wrapper">
+                    <div class="blog-item-img">
+                      <img src={a} alt="" />
+                    </div>
+                  </div>
+                </a>
+              </div>
 
-          <div class="post-masonry col-md-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/professional-cert/7ALWY3F2QLQ4"
-                target="_blank"
-              >
-                {" "}
-                <img src={a} alt="" />
-              </a>
+              <div class="col-lg-4">
+                <a
+                  href="https://www.coursera.org/account/accomplishments/specialization/LPY9C8LPVSKK"
+                  target="_blank"
+                >
+                  <div class="blog-item-wrapper">
+                    <div class="blog-item-img">
+                      <img src={b} alt="" />
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div class="col-lg-4">
+                <a href="https://www.coursera.org/account/accomplishments/professional-cert/U3SMLX6RNRH7" target="_blank">
+                  <div class="blog-item-wrapper">
+                    <div class="blog-item-img">
+                      <img src={k} alt="" />
+                    </div>
+                  </div>
+                </a>
+              </div>
             </div>
-          </div>
-          <div class="post-masonry col-md-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/specialization/LPY9C8LPVSKK"
-                target="_blank"
-              >
-                {" "}
-                <img src={b} alt="" />
-              </a>
-            </div>
-          </div>
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/specialization/MHY4KX26MTTS"
-                target="_blank"
-              >
-                {" "}
-                <img src={c} alt="" />
-              </a>
-            </div>
-          </div>
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/specialization/YEBRSA3E3VNZ"
-                target="_blank"
-              >
-                {" "}
-                <img src={d} alt="" />
-              </a>
-            </div>
-          </div>
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/professional-cert/U3SMLX6RNRH7"
-                target="_blank"
-              >
-                {" "}
-                <img src={k} alt="" />
-              </a>
-            </div>
-          </div>
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/specialization/L6DXMQJQ4EQX"
-                target="_blank"
-              >
-                {" "}
-                <img src={e} alt="" />
-              </a>
-            </div>
-          </div>
+          </div>{" "}
+          <br /> <br /> <br />
+        </section>
+        <section id="blog" class="section">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-4">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/YEBRSA3E3VNZ" target="_blank">
+                  <div class="blog-item-wrapper">
+                    <div class="blog-item-img">
+                      <img src={d} alt="" />
+                    </div>
+                  </div>
+                </a>
+              </div>
 
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/specialization/T273PNB7TMQV"
-                target="_blank"
-              >
-                {" "}
-                <img src={g} alt="" />
-              </a>
+              <div class="col-lg-4">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/L6DXMQJQ4EQX" target="_blank">
+                  <div class="blog-item-wrapper">
+                    <div class="blog-item-img">
+                      <img src={e} alt="" />
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div class="col-lg-4">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/GXXUYCBWZF4Z" target="_blank">
+                  <div class="blog-item-wrapper">
+                    <div class="blog-item-img">
+                      <img src={f} alt="" />
+                    </div>
+                  </div>
+                </a>
+              </div>
             </div>
-          </div>
-          
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/professional-cert/VPSY4RU6MP6T"
-                target="_blank"
-              >
-                {" "}
-                <img src={t} alt="" />
-              </a>
-            </div>
-          </div>
-          
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/specialization/SV7Y94BUPANX"
-                target="_blank"
-              >
-                {" "}
-                <img src={h} alt="" />
-              </a>
-            </div>
-          </div>
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/professional-cert/YM82SQN3K23X"
-                target="_blank"
-              >
-                {" "}
-                <img src={i} alt="" />
-              </a>
-            </div>
-          </div>
-          
-          
-          <div class="post-masonry col-md-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/specialization/XTB3R4FPRBNX"
-                target="_blank"
-              >
-                {" "}
-                <img src={l} alt="" />
-              </a>
-            </div>
-          </div>
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/specialization/4QNKS5X2UL9K"
-                target="_blank"
-              >
-                {" "}
-                <img src={j} alt="" />
-              </a>
-            </div>
-          </div>
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/professional-cert/PXHVZTPFZP6G"
-                target="_blank"
-              >
-                {" "}
-                <img src={n} alt="" />
-              </a>
-            </div>
-          </div>
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/professional-cert/HHFRJPQMU2A3"
-                target="_blank"
-              >
-                {" "}
-                <img src={m} alt="" />
-              </a>
-            </div>
-          </div>
-         
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/specialization/DRQYXWUDENRD"
-                target="_blank"
-              >
-                {" "}
-                <img src={o} alt="" />
-              </a>
-            </div>
-          </div>
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/professional-cert/FE95RP2363TR"
-                target="_blank"
-              >
-                {" "}
-                <img src={p} alt="" />
-              </a>
-            </div>
-          </div>
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/specialization/YV6Z8FV8NPAC"
-                target="_blank"
-              >
-                {" "}
-                <img src={r} alt="" />
-              </a>
-            </div>
-          </div>
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="hhttps://www.coursera.org/account/accomplishments/specialization/ZU7B8S7WZT8U"
-                target="_blank"
-              >
-                {" "}
-                <img src={q} alt="" />
-              </a>
-            </div>
-          </div>
-          
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/professional-cert/YG2GJU3CR3VV"
-                target="_blank"
-              >
-                {" "}
-                <img src={s} alt="" />
-              </a>
-            </div>
-          </div>
-          <div class="post-masonry col-md-6 col-sm-6">
-            <div class="blog-thumb">
-              <a
-                href="https://www.coursera.org/account/accomplishments/professional-cert/VPSY4RU6MP6T"
-                target="_blank"
-              >
-                {" "}
-                <img src={t} alt="" />
-              </a>
-            </div>
-          </div>
+          </div>{" "}
+          <br /> <br /> <br />
+        </section>
+        <section id="blog" class="section">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-4">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/T273PNB7TMQV" target="_blank">
+                  <div class="blog-item-wrapper">
+                    <div class="blog-item-img">
+                      <img src={g} alt="" />
+                    </div>
+                  </div>
+                </a>
+              </div>
 
-        </div>
+              <div class="col-lg-4">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/SV7Y94BUPANX" target="_blank">
+                  <div class="blog-item-wrapper">
+                    <div class="blog-item-img">
+                      <img src={h} alt="" />
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div class="col-lg-4">
+                <a href="https://www.coursera.org/account/accomplishments/professional-cert/YM82SQN3K23X" target="_blank">
+                  <div class="blog-item-wrapper">
+                    <div class="blog-item-img">
+                      <img src={i} alt="" />
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>{" "}
+          <br /> <br /> <br />
+        </section>
+        <section id="blog" class="section">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-4">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/4QNKS5X2UL9K" target="_blank">
+                  <div class="blog-item-wrapper">
+                    <div class="blog-item-img">
+                      <img src={j} alt="" />
+                    </div>
+                  </div>
+                </a>
+              </div>
+
+              <div class="col-lg-4">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/MHY4KX26MTTS" target="_blank">
+                  <div class="blog-item-wrapper">
+                    <div class="blog-item-img">
+                      <img src={c} alt="" />
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div class="col-lg-4">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/XTB3R4FPRBNX" target="_blank">
+                  <div class="blog-item-wrapper">
+                    <div class="blog-item-img">
+                      <img src={l} alt="" />
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>{" "}
+          <br /> <br /> <br />
+        </section>
+        <section id="blog" class="section">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-4">
+                <a href="https://www.coursera.org/account/accomplishments/professional-cert/HHFRJPQMU2A3" target="_blank">
+                  <div class="blog-item-wrapper">
+                    <div class="blog-item-img">
+                      <img src={m} alt="" />
+                    </div>
+                  </div>
+                </a>
+              </div>
+
+              <div class="col-lg-4">
+                <a href="https://www.coursera.org/account/accomplishments/professional-cert/PXHVZTPFZP6G" target="_blank">
+                  <div class="blog-item-wrapper">
+                    <div class="blog-item-img">
+                      <img src={n} alt="" />
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div class="col-lg-4">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/DRQYXWUDENRD" target="_blank">
+                  <div class="blog-item-wrapper">
+                    <div class="blog-item-img">
+                      <img src={o} alt="" />
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>{" "}
+          <br /> <br /> <br />
+        </section>
+        <section id="blog" class="section">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-4">
+                <a href="https://www.coursera.org/account/accomplishments/professional-cert/FE95RP2363TR" target="_blank">
+                  <div class="blog-item-wrapper">
+                    <div class="blog-item-img">
+                      <img src={p} alt="" />
+                    </div>
+                  </div>
+                </a>
+              </div>
+
+              <div class="col-lg-4">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/ZU7B8S7WZT8U" target="_blank">
+                  <div class="blog-item-wrapper">
+                    <div class="blog-item-img">
+                      <img src={q} alt="" />
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div class="col-lg-4">
+                <a href="https://www.coursera.org/account/accomplishments/specialization/YV6Z8FV8NPAC" target="_blank">
+                  <div class="blog-item-wrapper">
+                    <div class="blog-item-img">
+                      <img src={r} alt="" />
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>{" "}
+          <br /> <br /> <br />
+        </section>
       </>
     );
   }
