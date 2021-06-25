@@ -22,14 +22,16 @@ class Certifications extends Component {
           
          <CertificationCard />
          
-
+      </div>
          
-        </div><center><Button class="button1"
-              text="View More"
-              newTab={true}
-              href="https://drive.google.com/drive/u/0/folders/1H-tOOipJ0lx7B1FE3tJh7zRcEOO4IhJE"
-              theme=""
-            /></center>
+         <center><a
+                  href="https://drive.google.com/drive/u/0/folders/1H-tOOipJ0lx7B1FE3tJh7zRcEOO4IhJE"
+                  target="_blank"
+                >
+                  <button className="button">
+                    View More
+                  </button>
+                </a></center>
       </div>
     );
   }

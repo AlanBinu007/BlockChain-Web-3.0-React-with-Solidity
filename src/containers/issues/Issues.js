@@ -53,7 +53,7 @@ const toggle = (props) => {
               <Button
                 text="Show some 💖 to my Blog"
                 newTab={true}
-                href="https://hashnode.com/@alanbinu"
+                href="https://alanbinu.hashnode.dev/"
                 theme={theme}
               />
             </div>

@@ -48,7 +48,13 @@ function Projects(props) {
                 className="projects-header-detail-text subTitle"
                 style={{ color: theme.secondaryText }}
               >
-                "If you hold a candle close to you, its flame rises. And if you hold it away from you, its flame shrinks. The same way you hold a candle close to you, keep all your plans, aspirations, projects, and dreams close to you too. Do not share your plans or goals until you complete them, because as you hold your candle away from you, your goals will shrink in the eyes of others"
+                Every project is an opportunity to learn, to figure out problems and challenges, to invent and reinvent.
+              </p>
+              <p
+                className="projects-header-detail-text subTitle"
+                style={{ color: theme.secondaryText }}
+              >
+                Every project has challenges, and every project has its rewards.The bad experiences make you stronger and makes you focus on the next project.
               </p>
             </div>
           </div>
