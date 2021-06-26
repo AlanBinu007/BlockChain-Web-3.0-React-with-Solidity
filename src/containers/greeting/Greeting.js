@@ -20,10 +20,7 @@ export default function Greeting(props) {
   });
 
   return (
-    <div className="greet-main" id="greeting">
-      <Fade bottom duration={2000} distance="40px">
-        <div className="greeting-main">
-          <div className="greeting-text-div">
+
             <div>
               <h1 class="h11">Hello World </h1>
               <p className="greeting-text-p">I am Alan Binu</p>
@@ -55,12 +52,6 @@ export default function Greeting(props) {
 
               <div className="resume-btn-div"></div>
             </div>
-          </div>
-          <div className="greeting-image-div">
-            <FeelingProud theme={theme} />
-          </div>
-        </div>
-      </Fade>{" "}
-    </div>
+          
   );
 }
