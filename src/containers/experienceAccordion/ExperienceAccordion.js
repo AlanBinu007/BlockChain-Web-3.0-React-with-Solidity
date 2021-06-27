@@ -121,9 +121,7 @@ class ExperienceAccordion extends Component {
                     I worked as a Web Developer in Indel Systems
                     <br />
                     The main technologies that i used over ther are Springboot,
-                    Spring, <br/>RESTful API, Microservices,JSP, HTML, CSS, JQuery and a little bit <br/>of ReactJs
-                    
-                    PHP etc..
+                    Spring, <br/>,JSP, HTML, CSS, JQuery ,PHP and a little bit of ReactJs<br/>
                   </p>
                 </div>
                 <div class="timeline-content">
@@ -177,11 +175,11 @@ class ExperienceAccordion extends Component {
                 </div>
 
                 <div class="timeline-header">
+                  
                   <h3>
-                  <h3>
-                    <h5 class="resume-title">Web Tech Soltions</h5>
+                    <h5 class="resume-title1">Web Tech Soltions</h5>
                   </h3>
-                  </h3>
+                  
                   <i>June 2017 - Feb 2020</i>
                   <br />
                   <i class="i1">
@@ -190,11 +188,11 @@ class ExperienceAccordion extends Component {
                 </div>
 
                 <div class="timeline-content">
+                  
                   <h3>
-                  <h3>
-                    <h5 class="resume-title">Software and Web Developer</h5>
+                    <h5 class="resume-title1">Software and Web Developer</h5>
                   </h3><i>CEO & Founder</i>
-                  </h3> 
+                
 
                   <p>
                     Works as a freeLancer specialized in Web and Software
@@ -203,7 +201,7 @@ class ExperienceAccordion extends Component {
                     Mainly deals with creating, hosting and maintaining the
                     websites and <br />
                     utility softwares with online database access.
-                    <br />
+                    <br /><br />
                     We are also bulding Desktop Computer as per client
                     requirement as well.
                   </p>
@@ -212,14 +210,14 @@ class ExperienceAccordion extends Component {
               <div class="timeline-block">
                 <div class="timeline-content">
                   <h3>
-                    <h5 class="resume-title">Software Developer</h5>
+                    <h5 class="resume-title1">Software Developer</h5>
                   </h3>
                   <i>Januvary 2017 - July 2020</i>
                   <br />
                   <i>Co-Founder</i>
                   <br />
                   <br />
-                  All In One, We provide the best experience to our industry<br/>20+ Happy Clents
+                  All In One, We provide the best experience to your industry<br/>20+ Happy Clents
                   
                 </div>
               </div>

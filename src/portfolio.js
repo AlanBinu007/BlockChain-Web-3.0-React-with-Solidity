@@ -31,12 +31,7 @@ const greeting = {
 
 const socialMediaLinks = [
 
-  {
-    name: "Github",
-    link: "https://github.com/alanbinu007",
-    fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
-    backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
-  },
+ 
   {
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/alan-binu-95025015a/",
@@ -48,6 +43,12 @@ const socialMediaLinks = [
     link: "https://www.youtube.com/channel/UCnedX4Q0NK7bl5f5e4vvB_A",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
+  },
+  {
+    name: "Github",
+    link: "https://github.com/alanbinu007",
+    fontAwesomeIcon: "fab fa-github", // Reference https://fontawesome.com/icons/github?style=brands
+    backgroundColor: "#464545", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "Gmail",

@@ -10,7 +10,7 @@ class Organizations extends Component {
     return (
       <div>
         <br/><br/><br/><br/>
-        <center><h2>Contributed Organizations</h2></center>
+        <center><h2>Top Contributed Organizations</h2></center>
         <OrganizationList logos={OrganizationsData["data"]} />
       </div>
     );
