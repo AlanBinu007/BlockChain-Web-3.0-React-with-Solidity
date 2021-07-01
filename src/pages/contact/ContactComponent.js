@@ -27,12 +27,12 @@ class Contact extends Component {
           <Fade bottom duration={1000} distance="40px">
           
             
-              <div className="contact-heading-img-div">
+              
               <div className="contact-heading-img-div">
                 
                 <SocialImg theme={theme} />
               </div>
-              </div>
+             
               <div className="contact-heading-text-div">
                 <h1
                   className="contact-heading-text"

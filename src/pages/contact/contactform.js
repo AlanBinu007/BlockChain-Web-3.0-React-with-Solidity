@@ -34,7 +34,8 @@ export default class ContactForm extends Component {
       <>
         <div class="contact-section">
         Please feel free to contact me
-          <div class="border"></div>
+         <br/>
+         <br/>
           <form class="contact-form" onSubmit={sendEmail}>
             <input
               type="text"

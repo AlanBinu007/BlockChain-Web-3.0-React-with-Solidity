@@ -37,7 +37,9 @@
 .contact-heading-img-div {
   align-items: center;
   justify-content: center;
+  margin-left: 60px;
 }
+
 
 .blog-heading-img-div {
   align-items: center;
@@ -46,6 +48,7 @@
 
 .contact-heading-text-div {
   text-align: center;
+  margin-right: 60px;
 }
 
 .blog-heading-text-div {

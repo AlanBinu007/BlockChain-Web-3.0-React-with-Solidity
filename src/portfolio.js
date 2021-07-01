@@ -1,5 +1,5 @@
 const settings = {
-  isSplash: false,
+  isSplash: true,
   useCustomCursor: false, // Change this to false if you don't want Splash screen.
 };
 
