@@ -29,3 +29,25 @@
 	animation-direction: alternate;
 	text-shadow: 0 0 1px white;
 }
+
+
+#text {
+	position: absolute;
+	margin-top: 20px;
+	left: 50%;
+	top: 30px;
+	width: 100%;
+	transform: translate(-50%, 0%);
+	font-family: 'Oswald', arial;
+	color: #ED002E;
+	font-size: 50px;
+	font-size: 5.5vw;
+	text-align: center;
+	white-space: nowrap;
+  }
+  
+  #text span {
+	color: rgb(129, 113, 113);
+	font-size: 30px;
+	font-size: 3.5vw;
+  }

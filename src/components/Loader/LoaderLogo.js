@@ -5,12 +5,14 @@ import "./LoaderLogo.scss";
 class LogoLoader extends React.Component {
   render() {
     const theme = this.props.theme;
+
     return (
       <>
-        {/* <h4 class="animate">Loading</h4> */}
-		<br/>
+        <br />
         <main>
+        
           <div class="dank-ass-loader">
+
             <div class="row">
               <div class="arrow up outer outer-18"></div>
               <div class="arrow down outer outer-17"></div>
@@ -44,9 +46,11 @@ class LogoLoader extends React.Component {
               <div class="arrow down outer outer-9"></div>
             </div>
           </div>
-		  <br/>
-		  <h4 class="animate">Loading</h4>
+          <br />
+          <h4 class="animate">Loading</h4>
+          
         </main>
+        <div id="text"><span>No Matter How Hard it is ,</span> Just Keep Going</div>
       </>
     );
   }
