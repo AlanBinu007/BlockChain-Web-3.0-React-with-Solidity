@@ -111,11 +111,12 @@ class Education extends Component {
                 />
                 </Fade>
                 </li>
+                
                 <li className="organizations-inline">
               <Fade bottom duration={2000} distance="40px">
                 <img
                   className="organizations-imgnew"
-                  src={b}
+                  src={f}
                   alt="aaaaaa"
                 />
                 </Fade>
@@ -124,7 +125,7 @@ class Education extends Component {
               <Fade bottom duration={2000} distance="40px">
                 <img
                   className="organizations-imgnew"
-                  src={f}
+                  src={b}
                   alt="aaaaaa"
                 />
                 </Fade>
