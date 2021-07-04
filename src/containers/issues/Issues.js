@@ -47,8 +47,21 @@ const toggle = (props) => {
               className="blog-header-detail-text subTitle"
               style={{ color: theme.secondaryText }}
             >
-              {blogSection["subtitle"]}
+              "A person who never made a mistake never tried anything new"
             </p>
+            <p
+              className="blog-header-detail-text subTitle"
+              style={{ color: theme.secondaryText }}
+            >
+              "I’m a big believer in sharing my failures as well as my successes, so (readers) know what works and what doesn’t"
+            </p>
+            <p
+              className="blog-header-detail-text subTitle"
+              style={{ color: theme.secondaryText }}
+            >
+              "Tell a story. Make it true. Make it compelling. And make it relevant"
+            </p>
+
             <div className="address-btn-div">
               <Button
                 text="Show some 💖 to my Blog"

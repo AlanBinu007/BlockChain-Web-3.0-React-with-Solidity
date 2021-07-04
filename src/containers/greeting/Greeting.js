@@ -33,9 +33,6 @@ export default function Greeting(props) {
                   CEO & Founder of Web Tech Solutions
                 </b>
               </h4>
-              <p className="greeting-text-p4">
-                4+ year of experience in web and software development
-              </p>
               <SocialMedia />
               <div className="portfolio-repo-btn-div">
                 <a href="https://web-tech-solutions.web.app/" target="_blank">
