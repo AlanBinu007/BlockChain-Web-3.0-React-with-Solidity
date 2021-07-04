@@ -28,6 +28,8 @@ class ExperienceAccordion extends Component {
                   <i>August 2020 - Present</i>
                   <br />
                   <i>Full Time</i>
+                  <br />
+                  <i>1 year</i>
                 </div>
 
                 <div class="timeline-content">
@@ -100,6 +102,8 @@ class ExperienceAccordion extends Component {
                   <i>April 2020 - July 2020</i>
                   <br />
                   <i>Full Time</i>
+                  <br />
+                  <i>4 months</i>
                 </div>
 
                 <div class="timeline-content">
@@ -144,6 +148,8 @@ class ExperienceAccordion extends Component {
                   <i>November 2019 - march 2020</i>
                   <br />
                   <i>Intership</i>
+                  <br />
+                  <i>5 months</i>
                 </div>
 
                 <div class="timeline-content">
@@ -182,7 +188,9 @@ class ExperienceAccordion extends Component {
                   <br />
                   <i class="i1">
                    <h3> <b>CEO & Founder</b></h3>
-                  </i>
+                   <br />
+                  
+                  </i><i>3 years and 2 months</i>
                 </div>
 
                 <div class="timeline-content">

@@ -41,7 +41,7 @@ const toggle = (props) => {
           </div>
           <div className="blog-heading-text-div">
             <h2 className="blog-heading-text">
-              My Blogs and Open Source Contributions
+              My Blogs 
             </h2>
             <p
               className="blog-header-detail-text subTitle"
