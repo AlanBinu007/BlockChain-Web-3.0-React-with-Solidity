@@ -113,7 +113,7 @@ class ExperienceAccordion extends Component {
                   <br />
                   <i>Online Internship</i>
                   <br />
-                  <i>1 months</i>
+                  <i>1 month</i>
                 </div>
 
                 <div class="timeline-content">
@@ -145,7 +145,7 @@ class ExperienceAccordion extends Component {
                   <br />
                   <i>Online Internship</i>
                   <br />
-                  <i>1 months</i>
+                  <i>1 month</i>
                 </div>
 
                 <div class="timeline-content">
@@ -182,7 +182,7 @@ class ExperienceAccordion extends Component {
                   <br />
                   <i>Online Internship</i>
                   <br />
-                  <i>1 months</i>
+                  <i>1 month</i>
                 </div>
 
                 <div class="timeline-content">
@@ -216,7 +216,7 @@ class ExperienceAccordion extends Component {
                   <br />
                   <i>Online Internship</i>
                   <br />
-                  <i>1 months</i>
+                  <i>1 month</i>
                 </div>
 
                 <div class="timeline-content">
