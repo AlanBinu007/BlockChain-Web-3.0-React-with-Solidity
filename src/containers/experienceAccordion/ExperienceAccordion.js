@@ -295,7 +295,7 @@ class ExperienceAccordion extends Component {
                     <br />
                     Mainly deals with creating, hosting and maintaining the
                     websites and <br />
-                    utility softwares with online database access.
+                    utility softwares with online database access and online instant payment.
                     <br />
                     <br />
                     We are also bulding Desktop Computer as per client
