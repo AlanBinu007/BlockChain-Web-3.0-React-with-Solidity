@@ -9,9 +9,9 @@ export default function Footer(props) {
     <div className="footer-div">
       <Fade>
         <p className="footer-text" style={{ color: props.theme.secondaryText }}>
-        © Copyright 2021
-        </p>
-        <p className="footer-text" style={{ color: props.theme.secondaryText }}>
+        No Copyright © Issue<br/>
+        Fell Free To Copy. Ping Me If You Need Help
+        <br/>
         Design by Alan Binu 
         </p>
          
