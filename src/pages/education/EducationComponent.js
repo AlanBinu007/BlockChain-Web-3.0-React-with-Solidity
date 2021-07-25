@@ -25,6 +25,7 @@ import m8 from '../../images/m8.png';
 import m9 from '../../images/m9.png';
 import m10 from '../../images/m10.png';
 import m11 from '../../images/m11.png';
+import scrum from '../../images/scrum.png';
 
 class Education extends Component {
   render() {
@@ -106,11 +107,21 @@ class Education extends Component {
               <Fade bottom duration={2000} distance="40px">
                 <img
                   className="organizations-imgnew"
+                  src={scrum}
+                  alt="aaaaaa"
+                />
+                </Fade>
+                </li>
+                <li className="organizations-inline">
+              <Fade bottom duration={2000} distance="40px">
+                <img
+                  className="organizations-imgnew"
                   src={d}
                   alt="aaaaaa"
                 />
                 </Fade>
                 </li>
+                
                 
                 <li className="organizations-inline">
               <Fade bottom duration={2000} distance="40px">
