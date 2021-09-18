@@ -22,16 +22,12 @@ const greeting = {
   logo_name: "Alan Binu",
   nickname: "",
   full_name: "Alan Binu",
-  subTitle:
-    "I am a Full Stack Engineer",
-  resumeLink:
-    "",
+  subTitle: "I am a Full Stack Engineer",
+  resumeLink: "",
   mail: "mailto:alanbinu5@gmail.com",
 };
 
 const socialMediaLinks = [
-
- 
   {
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/alan-binu-95025015a/",
@@ -66,7 +62,6 @@ const socialMediaLinks = [
 
 const skills = {
   data: [
-    
     {
       title: "Full Stack Development",
       fileName: "FullStackImg",
@@ -74,7 +69,7 @@ const skills = {
         "⚡ Proffestional in Spring Full Stack Developent",
 
         "⚡ Building responsive website front end using ReactJS",
-        
+
         "⚡ Creating application backend in Node, Express & SpringBoot",
       ],
       softwareSkills: [
@@ -348,7 +343,7 @@ const degrees = {
         "⚡ BCA includes various subjects such as Programming in C, Java, php, Python etc (Basic and Advanced)",
         "⚡ Database Management, Mathematics, Software Engineering are the core of BCA",
         "⚡ Networking, World-Wide-Web, Data Structure, Advanced in software requirement specification and Software Development Life Cycle",
-        "⚡ Final Year Project : Realtime Student Management System"
+        "⚡ Final Year Project : Realtime Student Management System",
       ],
       website_link: "https://www.mgu.ac.in/",
       title1: "Master of Computer Application",
@@ -377,7 +372,6 @@ const certifications = {
       alt_name: "deeplearning.ai",
       color_code: "#47A048",
     },
-
   ],
 };
 
@@ -441,7 +435,6 @@ const experience = {
             "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
           color: "#ee3c26",
         },
-       
       ],
     },
     {
@@ -521,8 +514,7 @@ const contactPageData = {
   contactSection: {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
-    description:
-      "Happy To Hear From You",
+    description: "Happy To Hear From You",
   },
   blogSection: {
     title: "Blogs",
@@ -533,8 +525,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Thodupuzha, Idukki, Kerala - 685588, India",
+    subtitle: "Thodupuzha, Idukki, Kerala - 685588, India",
     avatar_image_path: "address_image.svg",
     location_map_link: "http://github.com/AlanBinu007",
   },
@@ -551,8 +542,9 @@ const projects = {
       name: "Live Interview Video Conference Application with Facecam and Mic",
       url: "https://github.com/AlanBinu007/Online-Live-Video-Chat-Application-for-Interview-purposes",
       live: "https://alanbinu-video-conference.web.app/",
-      tech:"Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript, NodeJs, ExpressJs and SASS",
-      description: "A clean and full functional live video conference app for one to one interview.It have live chat, Notes and Live Editor facility",
+      tech: "Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript, NodeJs, ExpressJs and SASS",
+      description:
+        "A clean and full functional live video conference app for one to one interview.It have live chat, Notes and Live Editor facility",
       languages: [
         {
           name: "ReactJS",
@@ -589,8 +581,9 @@ const projects = {
       name: "Netflix Clone",
       url: "https://github.com/AlanBinu007/netflix_clone",
       live: "https://alanbinu-netflix.web.app/",
-      tech:"Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript",
-      description: "A clean and full customizable clean Netflix Clone using React and tmdb API.",
+      tech: "Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript",
+      description:
+        "A clean and full customizable clean Netflix Clone using React and tmdb API.",
       languages: [
         {
           name: "ReactJS",
@@ -615,8 +608,9 @@ const projects = {
       name: "LinkedIn Clone",
       url: "https://github.com/AlanBinu007/Linkedin-Clone-React",
       live: "https://alanbinu-linkedin.web.app/",
-      tech:"Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript",
-      description: "A clean and clean LinkedIn Clone using React with Login and Add post Feature.",
+      tech: "Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript",
+      description:
+        "A clean and clean LinkedIn Clone using React with Login and Add post Feature.",
       languages: [
         {
           name: "ReactJS",
@@ -641,7 +635,7 @@ const projects = {
       name: "YouTube",
       url: "https://github.com/AlanBinu007/youtube",
       live: "https://alanbinu-642df.web.app/",
-      tech:"Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript",
+      tech: "Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript",
       description: "YouTube Clone created using React and react-youtube API.",
       languages: [
         {
@@ -666,8 +660,8 @@ const projects = {
       id: "7",
       name: "Amazon Clone",
       url: "https://github.com/AlanBinu007/amazone_clone_react",
-      live : "https://alanbinu-ecommerce.web.app/",
-      tech:"Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript",
+      live: "https://alanbinu-ecommerce.web.app/",
+      tech: "Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript",
       description:
         "Here i created an full functional Amazon clone application using React",
       languages: [
@@ -689,10 +683,9 @@ const projects = {
       id: "7",
       name: "Covid-19 tracker Using SPringBoot",
       url: "https://github.com/AlanBinu007/Covid-19-Spring",
-      live : "",
-      tech:"Technologies Used : SpringBoot, HTML, CSS, BootStrap, Javacript",
-      description:
-        "Simple Covid-19tracking software using spring boot",
+      live: "",
+      tech: "Technologies Used : SpringBoot, HTML, CSS, BootStrap, Javacript",
+      description: "Simple Covid-19tracking software using spring boot",
       languages: [
         {
           name: "SpringBoot",
@@ -708,8 +701,8 @@ const projects = {
       id: "7",
       name: "Spring Empooyee CURD Application",
       url: "https://github.com/AlanBinu007/Spring-Employee-CURD",
-      live : "",
-      tech:"Technologies Used : SpringBoot, HTML, CSS, BootStrap, Material UI",
+      live: "",
+      tech: "Technologies Used : SpringBoot, HTML, CSS, BootStrap, Material UI",
       description:
         "Here we used spring boot as back-end and thymeleaf as  web site template. The app contain creation, Deletion, Ediiting and fetching the employee details",
       languages: [
@@ -731,8 +724,8 @@ const projects = {
       id: "7",
       name: "SpringBoot Registration Login",
       url: "https://github.com/AlanBinu007/SpringBootRegistrationLogin",
-      live : "",
-      tech:"Technologies Used : SpringBoot, HTML, CSS, BootStrap, MySql",
+      live: "",
+      tech: "Technologies Used : SpringBoot, HTML, CSS, BootStrap, MySql",
       description:
         "Created a simple login application using Springboot and we store the user details in Mysql database",
       languages: [
@@ -748,15 +741,14 @@ const projects = {
           name: "Java",
           iconifyClass: "logos-java",
         },
-        
       ],
     },
     {
       id: "7",
       name: "Spring Security with JWT",
       url: "https://github.com/AlanBinu007/Spring-Security-JWT",
-      live : "",
-      tech:"Technologies Used : SpringBoot, HTML, CSS, BootStrap",
+      live: "",
+      tech: "Technologies Used : SpringBoot, HTML, CSS, BootStrap",
       description:
         "Here we are implemented the spring security to a simple application with (JSON Web Token) JWT",
       languages: [
@@ -778,10 +770,9 @@ const projects = {
       id: "7",
       name: "Covid-19 tracker Using SPringBoot",
       url: "https://github.com/AlanBinu007/Covid-19-Spring",
-      live : "",
-      tech:"Technologies Used : SpringBoot, HTML, CSS, BootStrap, Material UI",
-      description:
-        "Simple Covid-19tracking software using spring boot",
+      live: "",
+      tech: "Technologies Used : SpringBoot, HTML, CSS, BootStrap, Material UI",
+      description: "Simple Covid-19tracking software using spring boot",
       languages: [
         {
           name: "SpringBoot",
@@ -797,9 +788,9 @@ const projects = {
       id: "2",
       name: "Full Functional Online Student Management System",
       url: " ",
-      live:"",
-      
-      tech:"Technologies Used : Java, HTML, CSS, BootStrap, javaScript",
+      live: "",
+
+      tech: "Technologies Used : Java, HTML, CSS, BootStrap, javaScript",
       description:
         "My BCA final year project that i Published in my college itself. Got so many appreciation",
       languages: [
@@ -821,8 +812,8 @@ const projects = {
       id: "12",
       name: "Face Dectection System",
       url: "",
-      live:"",
-      tech:"Technologies Used : Python, Tensorflow, Computer vision",
+      live: "",
+      tech: "Technologies Used : Python, Tensorflow, Computer vision",
       description:
         "A Simple Face-Detion App using Python Computer Vison and Tensorflow.",
       languages: [
@@ -830,7 +821,7 @@ const projects = {
           name: "Python",
           iconifyClass: "logos-python",
         },
-        
+
         {
           name: "Tensorflow",
           iconifyClass: "logos-tensorflow",
@@ -841,8 +832,8 @@ const projects = {
       id: "13",
       name: "ToDo-App",
       url: "",
-      tech:"Technologies Used : SpringBoot, ReactJs, javaScript",
-      live:"",
+      tech: "Technologies Used : SpringBoot, ReactJs, javaScript",
+      live: "",
       description:
         "A simple ToDo application using REST API with the facility to Add, Remove, Edit and  Get Methods",
       languages: [
@@ -865,9 +856,9 @@ const projects = {
       id: "3",
       name: "E-Commerce Applicatoin",
       url: "https://github.com/AlanBinu007/e_commerce_app",
-      live : "https://alanbinu-commerce.web.app/",
-    
-      tech:"Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI",
+      live: "https://alanbinu-commerce.web.app/",
+
+      tech: "Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI",
       description:
         "An E-Commerce Application created using ReactJs and famous commercejs as REST API methods",
       languages: [
@@ -885,8 +876,8 @@ const projects = {
       id: "4",
       name: "Full Stack Social Media App",
       url: "https://github.com/AlanBinu007/MERN-Sample-Social-Media-App",
-      tech:"Technologies Used : ReactJs, MongoDb, ExpressJs, NodeJs",
-      live:"",
+      tech: "Technologies Used : ReactJs, MongoDb, ExpressJs, NodeJs",
+      live: "",
       description:
         "It is a full stack MERN(MongoDb, ExpressJs, ReactJs, Node) Sociak Media Application that multilple user can be able to login at a same time and also able to create their post",
       languages: [
@@ -899,15 +890,56 @@ const projects = {
           iconifyClass: "logos-react",
         },
         {
-name: "MongoDB",
-        iconifyClass: "logos-mongodb",
+          name: "MongoDB",
+          iconifyClass: "logos-mongodb",
         },
-        
       ],
     },
   ],
 };
-
+const reactnative = {
+  data: [
+    {
+      id: "0",
+      name: "Live Interview Video Conference Application with Facecam and Mic",
+      url: "https://github.com/AlanBinu007/Online-Live-Video-Chat-Application-for-Interview-purposes",
+      live: "https://alanbinu-video-conference.web.app/",
+      tech: "Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript, NodeJs, ExpressJs and SASS",
+      description:
+        "A clean and full functional live video conference app for one to one interview.It have live chat, Notes and Live Editor facility",
+      languages: [
+        {
+          name: "ReactJS",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+        {
+          name: "CSS",
+          iconifyClass: "logos-css-3",
+        },
+        {
+          name: "HTML",
+          iconifyClass: "logos-html-5",
+        },
+        {
+          name: "SASS",
+          iconifyClass: "logos-sass",
+        },
+        {
+          name: "NODEJS",
+          iconifyClass: "logos-nodejs",
+        },
+        {
+          name: "EXPRESSJS",
+          iconifyClass: "logos-express",
+        },
+      ],
+    },
+  ],
+};
 
 export {
   settings,
@@ -922,4 +954,5 @@ export {
   projectsHeader,
   contactPageData,
   projects,
+  reactnative,
 };
