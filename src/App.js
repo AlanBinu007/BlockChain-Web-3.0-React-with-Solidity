@@ -7,6 +7,7 @@ import { GlobalStyles } from "./global";
 import { CursorProvider } from "react-cursor-custom";
 import { settings } from "./portfolio";
 import ReactGA from "react-ga";
+import alanBtn from '@alan-ai/alan-sdk-web';
 
 function App() {
   useEffect(() => {
@@ -17,6 +18,17 @@ function App() {
       ReactGA.pageview(window.location.pathname + window.location.search);
     }
   }, []);
+  
+useEffect(() => {
+  alanBtn({
+      key: 'f553750d34d472dfb3303245a271cf842e956eca572e1d8b807a3e2338fdd0dc/stage',
+      onCommand: (commandData) => {
+        if (commandData.command === 'go:back') {
+          
+        }
+      }
+  });
+}, []);
 
   const [theme, setTheme] = useState(localStorage.getItem("theme") || "dark");
   

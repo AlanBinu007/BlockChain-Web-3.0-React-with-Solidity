@@ -26,6 +26,7 @@ import m9 from '../../images/m9.png';
 import m10 from '../../images/m10.png';
 import m11 from '../../images/m11.png';
 import scrum from '../../images/scrum.png';
+import hr from '../../images/hr1.png';
 
 class Education extends Component {
   render() {
@@ -49,10 +50,14 @@ class Education extends Component {
                 </h1>
                 
               <Fade bottom duration={2000} distance="40px">
-                My LeetCode Profile
-                <a href="https://leetcode.com/alanbinu5/" target="_blank"><img
+              <a href="https://leetcode.com/alanbinu5/" target="_blank"><img
                   className="organizations-imgnewnew"
                   src={g}
+                  alt="aaaaaa"
+                /></a>
+                <a href="https://www.hackerrank.com/alanbinu5" target="_blank"><img
+                  className="organizations-imgnewnew"
+                  src={hr}
                   alt="aaaaaa"
                 /></a>
                 </Fade>
