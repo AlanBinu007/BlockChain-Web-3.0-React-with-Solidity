@@ -60,12 +60,7 @@ function Projects(props) {
         <center>
           <h2>My Latest Works</h2>
         </center>
-        <h4>Full Stack React Web Applications Development</h4>
         {projects.data.map((repo) => {
-          return <ProjectCard repo={repo} theme={theme} />;
-        })}
-        <h4>Mobile Applications Using React Native  </h4>
-        {reactnative.data.map((repo) => {
           return <ProjectCard repo={repo} theme={theme} />;
         })}
       </div>
