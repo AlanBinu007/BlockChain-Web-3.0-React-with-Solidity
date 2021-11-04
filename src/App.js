@@ -22,7 +22,29 @@ function App() {
   useEffect(() => {
     alanBtn({
       key: "f553750d34d472dfb3303245a271cf842e956eca572e1d8b807a3e2338fdd0dc/stage",
-      onCommand: (commandData) => {},
+      onCommand: (commandData) => {
+        if (commandData.command == "linkedin") {
+          window.open(
+            "https://www.linkedin.com/in/alan-binu-95025015a/",
+            "_blank"
+          );
+        } else if (commandData.command == "github") {
+          window.open("https://github.com/AlanBinu00", "_blank");
+        } else if (commandData.command == "blog") {
+          window.open("https://hashnode.com/@alanbinu", "_blank");
+        } else if (commandData.command == "latestwork") {
+          window.open(
+            "https://github.com/AlanBinu007?tab=repositories",
+            "_blank"
+          );
+        } else if (commandData.command == "mailto") {
+          window.open("mailto:alanbinu5@gmail.com", "_blank");
+        } else if (commandData.command == "linkedinmesg") {
+          window.open("https://www.linkedin.com/in/alan-binu/", "_blank");
+        } else if (commandData.command == "emailmesg") {
+          window.open("mailto:alanbinu5@gmail.com", "_blank");
+        }
+      },
     });
   }, []);
 

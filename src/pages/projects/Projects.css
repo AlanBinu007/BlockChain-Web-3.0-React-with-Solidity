@@ -30,7 +30,7 @@
   font-family: "Google Sans Regular";
   font-size: 17px;
   transition: all 0.2s ease-in-out;
-  cursor: pointer;  
+  cursor: pointer;
 }
 
 .projects-heading-img-div {
@@ -77,8 +77,8 @@
   display: grid;
   /* grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); */
   gap: 3rem 3rem;
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-left: 250px;
+  margin-right: 250px;
   margin-top: 60px;
 }
 

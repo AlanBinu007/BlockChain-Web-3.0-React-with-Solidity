@@ -39,7 +39,12 @@ span1 {
   }
 }
 
+.sample {
+  margin-top: 50%;
+}
+
 .loader {
+  margin-top: 200px;
   color: #ffffff;
   font-size: 10px;
   margin: 100px auto;
