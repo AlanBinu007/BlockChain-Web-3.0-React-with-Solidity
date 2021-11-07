@@ -29,7 +29,6 @@ class ExperienceAccordion extends Component {
                   <br />
                   <i>Full Time</i>
                   <br />
-                  <i>1 year</i>
                 </div>
 
                 <div class="timeline-content">
@@ -99,6 +98,62 @@ class ExperienceAccordion extends Component {
                   <br />
                 </div>
               </div>
+              <div class="timeline-block">
+                <div class="timeline-ico">
+                  <i class="fa fa-briefcase" aria-hidden="true"></i>
+                </div>
+
+                <div class="timeline-header">
+                  <h3>
+                    <h5 class="resume-title1">Web Tech Soltions</h5>
+                  </h3>
+
+                  <i>June 2018 - Mar 2021</i>
+                  <br />
+                  <i class="i1">
+                    <h3>
+                      {" "}
+                      <b>CEO & Founder</b>
+                    </h3>
+                    <br />
+                  </i>
+                </div>
+
+                <div class="timeline-content">
+                  <h3>
+                    <h5 class="resume-title1">Software and Web Developer</h5>
+                  </h3>
+                  <i>CEO & Founder</i>
+
+                  <p>
+                    Works as a freeLancer specialized in Web and Software
+                    Development
+                    <br />
+                    Mainly deals with creating, hosting and maintaining the
+                    websites and <br />
+                    utility softwares with online database access and online
+                    instant payment.
+                    <br />
+                    <br />
+                    We are also bulding Desktop Computer as per client
+                    requirement as well.
+                  </p>
+                </div>
+              </div>
+              <div class="timeline-block">
+                <div class="timeline-content">
+                  <h3>
+                    <h5 class="resume-title1">Software Developer</h5>
+                  </h3>
+                  <i>Januvary 2018 - July 2018</i>
+                  <br />
+                  <i>Co-Founder</i>
+                  <br />
+                  <br />
+                  All In One, We provide the best experience to your industry.
+                  <br />8 Happy Clients
+                </div>
+              </div>
 
               <div class="timeline-block">
                 <div class="timeline-ico">
@@ -113,7 +168,6 @@ class ExperienceAccordion extends Component {
                   <br />
                   <i>Online Internship</i>
                   <br />
-                  <i>1 month</i>
                 </div>
 
                 <div class="timeline-content">
@@ -132,43 +186,7 @@ class ExperienceAccordion extends Component {
                   </p>
                 </div>
               </div>
-              <div class="timeline-block">
-                <div class="timeline-ico">
-                  <i class="fa fa-briefcase" aria-hidden="true"></i>
-                </div>
 
-                <div class="timeline-header">
-                  <h3>
-                    <h5 class="resume-title">Accenture</h5>
-                  </h3>
-                  <i>August 2020 - August 2020</i>
-                  <br />
-                  <i>Online Internship</i>
-                  <br />
-                  <i>1 month</i>
-                </div>
-
-                <div class="timeline-content">
-                  <h3>
-                    <h5 class="resume-title">Program Developer</h5>
-                  </h3>
-
-                  <p>
-                    This is a virtual internship program that conducted by
-                    Goldman Sachs <br />
-                    with Forage at the time of Covid-19 pandemic
-                    <br />
-                    Task: <br />
-                    Define technical requirements, Design changes to an existing
-                    architecture <br />
-                    Debugging algorithms <br />
-                    Unit testing UAT
-                    <br />
-                    Securing the software development lifecycle(SDLC)
-                    <br />
-                  </p>
-                </div>
-              </div>
               <div class="timeline-block">
                 <div class="timeline-ico">
                   <i class="fa fa-briefcase" aria-hidden="true"></i>
@@ -182,56 +200,29 @@ class ExperienceAccordion extends Component {
                   <br />
                   <i>Online Internship</i>
                   <br />
-                  <i>1 month</i>
                 </div>
 
                 <div class="timeline-content">
                   <h3>
                     <h5 class="resume-title">
-                      Investment Banking Virtual Reality Intern Experience
+                      Investment Banking Virtual Intern
                     </h5>
                   </h3>
 
                   <p>
                     This is a virtual internship program that conducted by
-                    Goldman Sachs with<br /> Forage at the time of Covid-19 pandemic<br />
-                    Task:<br /> Prepare a one-page company profile <br />Select he
-                    appropriate comparable companies <br />Calculate relevant
-                    financial metrics <br />Summarize key findings in an email
+                    Goldman Sachs with
+                    <br /> Forage at the time of Covid-19 pandemic
+                    <br />
+                    Task:
+                    <br /> Prepare a one-page company profile <br />
+                    Select he appropriate comparable companies <br />
+                    Calculate relevant financial metrics <br />
+                    Summarize key findings in an email
                     <br />
                   </p>
                 </div>
               </div>
-
-              <div class="timeline-block">
-                <div class="timeline-ico">
-                  <i class="fa fa-briefcase" aria-hidden="true"></i>
-                </div>
-
-                <div class="timeline-header">
-                  <h3>
-                    <h5 class="resume-title">Goldman Sachs</h5>
-                  </h3>
-                  <i>June 2020 - June 2020</i>
-                  <br />
-                  <i>Online Internship</i>
-                  <br />
-                  <i>1 month</i>
-                </div>
-
-                <div class="timeline-content">
-                  <h3>
-                    <h5 class="resume-title">Engineering Virtual Intern Program</h5>
-                  </h3>
-
-                  <p>
-                  This is a virtual internship program that conducted by Goldman Sachs with Forage <br />at the time of Covid-19 pandemic
-                  <br />Over here i deals with Database Management
-                    <br />
-                  </p>
-                </div>
-              </div>
-              
               <div class="timeline-block">
                 <div class="timeline-ico">
                   <i class="fa fa-briefcase" aria-hidden="true"></i>
@@ -245,7 +236,6 @@ class ExperienceAccordion extends Component {
                   <br />
                   <i>Internship</i>
                   <br />
-                  <i>5 months</i>
                 </div>
 
                 <div class="timeline-content">
@@ -254,68 +244,18 @@ class ExperienceAccordion extends Component {
                   </h3>
 
                   <p>
-                  Santhisoft is a software product development company in Kerala, India, incorporated  <br />in 2005 and is managed by CMI congregation. Apart from software product development,  <br />company offers customized software solutions, IT consultancy services and training to  <br />their customers.
-                  <br />I worked here for 5 months for my major project which includes the technologies <br /> like Java, JSP, HTML, CSS, MySql, Bootstrap and PHP
+                    Santhisoft is a software product development company in
+                    Kerala, India, incorporated <br />
+                    in 2005 and is managed by CMI congregation. Apart from
+                    software product development, <br />
+                    company offers customized software solutions, IT consultancy
+                    services and training to <br />
+                    their customers.
+                    <br />I worked here for 5 months for my major project which
+                    includes the technologies <br /> like Java, JSP, HTML, CSS,
+                    MySql, Bootstrap and PHP
                     <br />
                   </p>
-                </div>
-              </div>
-
-              <div class="timeline-block">
-                <div class="timeline-ico">
-                  <i class="fa fa-briefcase" aria-hidden="true"></i>
-                </div>
-
-                <div class="timeline-header">
-                  <h3>
-                    <h5 class="resume-title1">Web Tech Soltions</h5>
-                  </h3>
-
-                  <i>June 2017 - Feb 2020</i>
-                  <br />
-                  <i class="i1">
-                    <h3>
-                      {" "}
-                      <b>CEO & Founder</b>
-                    </h3>
-                    <br />
-                  </i>
-                  <i>3 years and 2 months</i>
-                </div>
-
-                <div class="timeline-content">
-                  <h3>
-                    <h5 class="resume-title1">Software and Web Developer</h5>
-                  </h3>
-                  <i>CEO & Founder</i>
-
-                  <p>
-                    Works as a freeLancer specialized in Web and Software
-                    Development
-                    <br />
-                    Mainly deals with creating, hosting and maintaining the
-                    websites and <br />
-                    utility softwares with online database access and online instant payment.
-                    <br />
-                    <br />
-                    We are also bulding Desktop Computer as per client
-                    requirement as well.
-                  </p>
-                </div>
-              </div>
-              <div class="timeline-block">
-                <div class="timeline-content">
-                  <h3>
-                    <h5 class="resume-title1">Software Developer</h5>
-                  </h3>
-                  <i>Januvary 2017 - July 2020</i>
-                  <br />
-                  <i>Co-Founder</i>
-                  <br />
-                  <br />
-                  All In One, We provide the best experience to your industry
-                  <br />
-                  20+ Happy Clents
                 </div>
               </div>
             </div>

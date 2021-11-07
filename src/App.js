@@ -8,6 +8,7 @@ import { CursorProvider } from "react-cursor-custom";
 import { settings } from "./portfolio";
 import ReactGA from "react-ga";
 import alanBtn from "@alan-ai/alan-sdk-web";
+import { HiMenuAlt1 } from "react-icons/hi";
 
 function App() {
   useEffect(() => {
@@ -20,8 +21,8 @@ function App() {
   }, []);
 
   useEffect(() => {
-    alanBtn({
-      key: "f553750d34d472dfb3303245a271cf842e956eca572e1d8b807a3e2338fdd0dc/stage",
+    let alanBtnInstance = alanBtn({
+      key: "0aee186d3c7eda08b3303245a271cf842e956eca572e1d8b807a3e2338fdd0dc/stage",
       onCommand: (commandData) => {
         if (commandData.command == "linkedin") {
           window.open(
@@ -29,7 +30,7 @@ function App() {
             "_blank"
           );
         } else if (commandData.command == "github") {
-          window.open("https://github.com/AlanBinu00", "_blank");
+          window.open("https://github.com/AlanBinu007", "_blank");
         } else if (commandData.command == "blog") {
           window.open("https://hashnode.com/@alanbinu", "_blank");
         } else if (commandData.command == "latestwork") {
@@ -43,6 +44,31 @@ function App() {
           window.open("https://www.linkedin.com/in/alan-binu/", "_blank");
         } else if (commandData.command == "emailmesg") {
           window.open("mailto:alanbinu5@gmail.com", "_blank");
+        } else if (commandData.command == "username") {
+          console.log(commandData.value.value);
+          localStorage.setItem("name", commandData.value.value);
+        } else if (commandData.command == "changename") {
+          localStorage.setItem("name", commandData.value);
+        }
+      },
+      onConnectionStatus: async function (status) {
+        if (status === "authorized") {
+          await alanBtnInstance.activate();
+          if (localStorage.getItem("name") == null) {
+            alanBtnInstance.playText("Hi. Welcome to my digital world");
+            alanBtnInstance.callProjectApi("startAlan");
+          } else {
+            alanBtnInstance.playText(
+              "Hi " + localStorage.getItem("name") + ". Nice to see you again"
+            );
+            alanBtnInstance.callProjectApi(
+              "setName",
+              {
+                name: localStorage.getItem("name"),
+              },
+              function (error, result) {}
+            );
+          }
         }
       },
     });
