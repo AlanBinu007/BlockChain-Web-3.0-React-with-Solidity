@@ -22,7 +22,7 @@ function App() {
 
   useEffect(() => {
     let alanBtnInstance = alanBtn({
-      key: "0aee186d3c7eda08b3303245a271cf842e956eca572e1d8b807a3e2338fdd0dc/stage",
+      key: "YOUR ALAN AI KEY",
       onCommand: (commandData) => {
         if (commandData.command == "linkedin") {
           window.open(
