@@ -12,8 +12,8 @@
 
 ## Features
 
-- Navogate through different sessions
-- Send Email
+- Navigate through different sessions
+- Send Email directly
 - Voice Assistent to do what ever you want like alexa,siri hwllo google
 - Neat and clean UI
 
