@@ -14,6 +14,7 @@
 - Alchemy
 - Ropsten
 - Hardhat
+- Ropsten Etherscan
 
 ## Features
 
@@ -24,7 +25,7 @@
 
 You need to install MetaMask in your browser  :  https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en  and creeate one account.
 
-Create on account in Alchemy (for virtualization purposses) : https://dashboard.alchemyapi.io/ and craete one app
+Create on account in Alchemy (for virtualization purposes) : https://dashboard.alchemyapi.io/ and create one app
 
 
 #### Run the following commands
@@ -58,6 +59,15 @@ export const contractAddress = "<DEPLLOYED ADDRESS>"
 ```
 
 Then go to smart_contract/artifact/contracts/Transactions/ and copy the Transacation.json (which contains all our contract details in json form) ---> and paste it into client/src/utils/
+
+##NOTE:<br>
+
+Inoder to run this application it required some gas (some kind of fee), so your must need some Eth<br><br>
+For testing purposes, here comes ROPSTEN. It provide free Eth for testing purposes.<br>
+To claim free test Eth go to your MetaMask -> Network Settings -> Turn ON test network and connect to "Ropsten test network".<br><br>
+Then copy your account address and go to : https://faucet.egorfine.com/ and paste your address and claim free test Eth of 0.300 Eth.<br>
+
+
 
 
 
