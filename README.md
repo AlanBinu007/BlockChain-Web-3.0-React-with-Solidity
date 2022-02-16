@@ -47,7 +47,7 @@ Then go to MetaMask and copy the Eth account PRIVATE ID under Account Details an
 accounts :["PRIVATE KEY"]
 ```
 
-Then run the foloowing commsnd in smart_contract root folder
+Then run the following command in smart_contract root folder
 
 ```
 npx hardhat run scripts/deploy.js --network ropsten
