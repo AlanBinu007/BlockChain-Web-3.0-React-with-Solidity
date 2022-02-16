@@ -1,6 +1,9 @@
 {
   "name": "wave-app",
   "version": "0.0.0",
+  "publishConfig":{
+    "registry: : "https://npm.pkg.github.com/@AlanBinu007"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
